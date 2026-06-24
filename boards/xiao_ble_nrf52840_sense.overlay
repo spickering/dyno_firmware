@@ -1,0 +1,233 @@
+/*
+ * boards/xiao_ble_nrf52840_sense.overlay
+ */
+#include <dt-bindings/adc/nrf-saadc.h>
+#include <dt-bindings/pwm/pwm.h>
+/*
+ *
+ * Low-power overlay for the Seeed XIAO nRF52840 Sense (NCS v3.3.0,
+ * board target: xiao_ble/nrf52840/sense).
+ *
+ *  - Disable the on-board IMU and the I2C bus that serves it.
+ *  - Drive P1.08 (IMU/PDM-mic power-enable, active-high) low at boot
+ *    via a regulator-fixed node, hard-powering the LSM6DS3TR-C off.
+ *  - Disable unused UART/SPI/PWM/ADC nodes so their drivers don't init.
+ *  - Override the QSPI 'sleep' pinctrl state so that during sleep the
+ *    QSPI CS line stays pulled up rather than floating. Without this,
+ *    the P25Q16H can fail to remain in Deep Power Down on the XIAO.
+ *    See: zephyrproject-rtos/zephyr#55543 and the Nordic DevZone
+ *    thread "External flash to sleep".
+ */
+
+/* ------------------------------------------------------------------ *
+ *  IMU + its I2C bus
+ * ------------------------------------------------------------------ */
+&i2c0 {
+	status = "disabled";
+};
+
+&lsm6ds3tr_c {
+	status = "disabled";
+};
+
+/* ------------------------------------------------------------------ *
+ *  IMU / PDM mic supply switch (P1.08, active-high).
+ *
+ *  We just expose the pin via a custom node so the application can
+ *  drive it low at boot. No regulator framework involved.
+ * ------------------------------------------------------------------ */
+/ {
+	board_pwr: board_pwr {
+		compatible = "gpio-keys";   /* generic node with a 'gpios' phandle */
+		imu_pwr_gpio: imu_pwr {
+			gpios = <&gpio1 8 GPIO_ACTIVE_HIGH>;
+			label = "IMU_PWR_EN";
+		};
+		/* BQ25101 CHG pin — open-drain, driven LOW while charging.
+		 * Pull-up required; active-low so gpio_pin_get_dt() returns 1
+		 * when charging is in progress. */
+		chg_stat_gpio: chg_stat {
+			gpios = <&gpio0 17 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
+			label = "CHG_STAT";
+		};
+		/* Charge-inhibit output to BQ25101 CE pin.
+		 * Open-drain: floating (high-Z) = charging allowed;
+		 * driven LOW = charging inhibited. */
+		chg_inhibit_gpio: chg_inhibit {
+			gpios = <&gpio0 28 (GPIO_ACTIVE_LOW | GPIO_OPEN_DRAIN)>;
+			label = "CHG_INHIBIT";
+		};
+	};
+};
+
+/* ------------------------------------------------------------------ *
+ *  Unused peripherals - prevent their drivers from initialising.
+ * ------------------------------------------------------------------ */
+&uart0 { status = "disabled"; };
+&uart1 { status = "disabled"; };
+
+/* ------------------------------------------------------------------ *
+ *  RGB LED — charging status indicator
+ *
+ *  XIAO nRF52840 onboard RGB (common anode → 3.3 V):
+ *    Red   cathode → P0.26
+ *    Green cathode → P0.30  (driven via PWM0 channel 0 for fade)
+ *    Blue  cathode → P0.06
+ *
+ *  All GPIOs declared ACTIVE_LOW so gpio_pin_set_dt(spec, 1) = LED on.
+ *  PWM polarity is inverted: pulse_ns == period_ns = fully on,
+ *  pulse_ns == 0 = fully off.
+ * ------------------------------------------------------------------ */
+&pwm0 {
+	status = "okay";
+	pinctrl-0 = <&pwm0_led_default>;
+	pinctrl-1 = <&pwm0_led_sleep>;
+	pinctrl-names = "default", "sleep";
+};
+
+/ {
+	rgb_pwm_leds {
+		compatible = "pwm-leds";
+		led_red_pwm: led_red_pwm {
+			pwms = <&pwm0 0 PWM_MSEC(1) PWM_POLARITY_INVERTED>;
+		};
+		led_green_pwm: led_green_pwm {
+			pwms = <&pwm0 1 PWM_MSEC(1) PWM_POLARITY_INVERTED>;
+		};
+		led_blue_pwm: led_blue_pwm {
+			pwms = <&pwm0 2 PWM_MSEC(1) PWM_POLARITY_INVERTED>;
+		};
+	};
+};
+
+/* ------------------------------------------------------------------ *
+ *  SPI2 (xiao_spi) — ADS1220 temperature/ADC
+ *
+ *  D8 = P1.13 (SCK), D9 = P1.14 (MISO), D10 = P1.15 (MOSI)
+ *  D3 = P0.29 (CS, active-low)
+ *
+ *  Pinctrl states spi2_default / spi2_sleep are already defined in
+ *  xiao_ble-pinctrl.dtsi and referenced by the board's common DTS.
+ * ------------------------------------------------------------------ */
+&spi2 {
+	status = "okay";
+	cs-gpios = <&gpio0 29 GPIO_ACTIVE_LOW>;
+
+	ads1220: ads1220@0 {
+		compatible = "vnd,spi-device";
+		reg = <0>;
+		spi-max-frequency = <4000000>;
+	};
+};
+
+/* ------------------------------------------------------------------ *
+ *  SAADC — battery voltage on AIN7 (P0.31).
+ *
+ *  P0.14 (active-low) enables the voltage divider:
+ *    Battery+ ── 1 MΩ ── P0.31/AIN7 ── 510 kΩ ── P0.14
+ *
+ *  Gain 1/6, internal 0.6 V reference → 3.6 V full scale;
+ *  max divided voltage ≈ 1.42 V (at 4.2 V battery), well in range.
+ * ------------------------------------------------------------------ */
+&adc {
+	status = "okay";
+	#address-cells = <1>;
+	#size-cells = <0>;
+
+	channel@7 {
+		reg = <7>;
+		zephyr,gain = "ADC_GAIN_1_6";
+		zephyr,reference = "ADC_REF_INTERNAL";
+		zephyr,acquisition-time = <0>;       /* ADC_ACQ_TIME_DEFAULT */
+		zephyr,input-positive = <NRF_SAADC_AIN7>;
+		zephyr,resolution = <12>;
+		zephyr,oversampling = <4>;
+	};
+};
+
+/ {
+	vbatt: vbatt {
+		compatible = "voltage-divider";
+		io-channels = <&adc 7>;
+		output-ohms = <510000>;             /* lower leg: 510 kΩ */
+		full-ohms   = <1510000>;            /* total: 1 MΩ + 510 kΩ */
+		power-gpios = <&gpio0 14 GPIO_ACTIVE_LOW>;
+	};
+};
+
+/* ------------------------------------------------------------------ *
+ *  Remove console/uart 'chosen' bindings so nothing drags UART back in.
+ * ------------------------------------------------------------------ */
+/ {
+	chosen {
+		/delete-property/ zephyr,console;
+		/delete-property/ zephyr,shell-uart;
+		/delete-property/ zephyr,uart-mcumgr;
+		/delete-property/ zephyr,bt-mon-uart;
+		/delete-property/ zephyr,bt-c2h-uart;
+	};
+};
+
+/* ------------------------------------------------------------------ *
+ *  DC/DC regulator (REG1 / buck converter).
+ *
+ *  CONFIG_SOC_DCDC_NRF52X has no Kconfig prompt in NCS v2.x+ and
+ *  cannot be set in prj.conf. Setting regulator-initial-mode here
+ *  causes the hidden symbol to be auto-selected by the build system.
+ *  The XIAO nRF52840 Sense populates the required 10 µH inductor.
+ * ------------------------------------------------------------------ */
+&reg1 {
+	regulator-initial-mode = <NRF5X_REG_MODE_DCDC>;
+};
+
+/* ------------------------------------------------------------------ *
+ *  QSPI flash node stays enabled - we DPD it from the application.
+ * ------------------------------------------------------------------ */
+&p25q16h {
+	status = "okay";
+};
+
+/* ------------------------------------------------------------------ *
+ *  QSPI sleep-state pinctrl override.
+ *
+ *  Upstream xiao_ble-pinctrl.dtsi disconnects every QSPI pin
+ *  (including CSN on P0.25) in the qspi_sleep state. With CS
+ *  floating, the P25Q16H either fails to enter DPD or wakes itself
+ *  up. We redefine qspi_sleep to keep CSN biased high (chip
+ *  deselected) while letting the data lines/SCK go low-power.
+ *
+ *  Pinctrl 'sleep' is applied by the QSPI driver when its device is
+ *  suspended via pm_device_action_run(...SUSPEND).
+ * ------------------------------------------------------------------ */
+&pinctrl {
+	pwm0_led_default: pwm0_led_default {
+		group1 {
+			psels = <NRF_PSEL(PWM_OUT0, 0, 26)>,  /* Red   P0.26 ch0 */
+				<NRF_PSEL(PWM_OUT1, 0, 30)>,  /* Green P0.30 ch1 */
+				<NRF_PSEL(PWM_OUT2, 0,  6)>;  /* Blue  P0.06 ch2 */
+		};
+	};
+	pwm0_led_sleep: pwm0_led_sleep {
+		group1 {
+			psels = <NRF_PSEL(PWM_OUT0, 0, 26)>,
+				<NRF_PSEL(PWM_OUT1, 0, 30)>,
+				<NRF_PSEL(PWM_OUT2, 0,  6)>;
+			low-power-enable;
+		};
+	};
+
+	/omit-if-no-ref/ qspi_sleep: qspi_sleep {
+		group1 {
+			psels = <NRF_PSEL(QSPI_SCK, 0, 21)>,
+				<NRF_PSEL(QSPI_IO0, 0, 20)>,
+				<NRF_PSEL(QSPI_IO1, 0, 24)>,
+				<NRF_PSEL(QSPI_IO2, 0, 22)>,
+				<NRF_PSEL(QSPI_IO3, 0, 23)>;
+			low-power-enable;
+		};
+		group2 {
+			psels = <NRF_PSEL(QSPI_CSN, 0, 25)>;
+			bias-pull-up;
+		};
+	};
+};

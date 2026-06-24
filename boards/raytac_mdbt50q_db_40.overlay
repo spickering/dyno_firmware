@@ -1,0 +1,15 @@
+/*
+ * Clean minimal overlay for Raytac MDBT50Q-DB-40 - Bluetooth only
+ */
+
+&uart0 { status = "disabled"; };
+&uart1 { status = "disabled"; };
+
+&spi2 { status = "disabled"; };
+&adc  { status = "disabled"; };
+&pwm0 { status = "disabled"; };
+
+/* On-board LEDs */
+&led0 { status = "okay"; };
+&led1 { status = "okay"; };
+&led2 { status = "okay"; };
