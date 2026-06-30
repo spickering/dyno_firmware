@@ -171,6 +171,8 @@ Bluemax_dev/
 
 ```bash
 west build -p always -b xiao_ble/nrf52840/sense
+
+west build -p always -b xiao_ble/nrf52840/sense --no-sysbuild
 ```
 
 Or via the **nRF Connect** VS Code extension:

@@ -1,0 +1,904 @@
+[00:03:25.882,781] [0h8@@f>H``0`@F@NL@L@`0  p      B  p  0b000a
+<dbF<H``0H``BNLD@F``@`@F@NL0NLD@F``@LPU region at index 0x2
+[00:03:25.882,324] <@@f<L``0`@F@NL@HHNB@`@@L@@L@`0`NF`@l MPU region at index 0x2
+[00:03:25.882,781] [0i8`@F<H``0`@F@NL@L@`0  p      B  x150b000a
+,,892] <dbg> mpe: i``bnND@F``@`@F@NL0NLD@F```@F@NL@` index 0x2
+[00:03:25.882,324] <dbg> m`u:bafAoN@HHNB@`@@L@@L@`0`NF`@`@F@NL at index 0x2
+[00:03:25.882,781] <dbg> m`u2 r@F`NL@LH`0  p      B  p   @   @ m
+892] <dBg<H``0H``BNLD@F``@`@F@NL0NLD@F``@ region at index 0x2
+<DbG<L`a0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781] <`@F< H``0`@F@NL@L@`0  p      B  p   b000a
+,892] 8D@F>h``0H``BNLD@F``@`@F@NL0NLD@Fure MPU region at index 0x2
+[00:03:25.882,#"0\  M8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0`ogram MPU region at index 0x2
+[00:03:25.882,78!X 0L8@@F<H``0`@F@NL@L@`0  p      c0 0x150b000a
+,892] <`@F<H`t0H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324] <d@F<H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@H MPU region at index 0x2
+[00:03:25.882,781] l<`@G<H``0`@F@NL@L@`0  p      B  p 40b000a
+,892] 8D`f>H``0H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324] 8@@G>H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@H MPU region at index 0x2
+[00:03:25.882,78!] m<dBF<H``0`@F@NL@L@`0  p      B  p  0b000a
+,892] <dbg<ipa0 H``BNLD@F``@`@F@NL0NLD@F```@Fion at index 0x2
+[00:03:25.882,324] <dbG< L``0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781] m8@BF<H``0`@F@NL@L@`0  p      B  p  0b000a
+,892] M8@@F<H``0H``BNLD@F``@`@F@NL0NLD@fqre MPU region at index 0x2
+[00:03:25.882,324] H8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0`ngram MPU region at index 0x2
+[00:03:25.882,781 H8@@F<H``0`@F@NL@L@`0  p      b0 0x150b000a
+892] <dbG< hpa0 H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324]<DbF<H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@H MPU region at index 0x2
+[00:03:25.882,781]  h<@@f<H``0`@F@NL@L@`0  p      B  x150b000a
+892] <`@f<Ip`0I``BNLD@F``@`@F@NL0NLD@F`` region at index 0x2
+<dbG<H``2`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781] <`Bg<H``0`@F@NL@L@`0  p      B  p   b000a
+
+0m
+Still AlHdE``B  0 "0 "
+                      0 "&0 H8@@F<Nb8 z_tick_sleep: thread 0x20002288 for 2000 ticjs[  0 "0 "
+                                                                                             0 0"& H8@@F<H``0H``Bnnfigure_region: Configure MPU region at index 0R  0 "0 "
+               0  $  H8@@F<H``0`@F@Nl_allocate_and_init: Program MPU region at index 0p S0  0 "0 "
+                                                                                                  0 &   H8@@F<H``0`@gion_init: [2] 0x200051c0 0x150b000a
+[00:03:25.87!( "  H8@@F<H``0H``BNLD@F``@`@F@NL0 Configure MPU region at index 0x2
+[00:03:25.8&5, 00  H8@@F<H``0`@F@NL@HHNB@`@@L@@nit: Program MPU region at index 0x2
+[00:03:25.8&0 ! H8@@F<H``0`@F@NL@L@`0  p 0005340 0x150b000a
+Still alive - tick
+[00:03:2 
+  0 "0   0& "  H8@@F<Nb0p`ick_sleep: thread 0x20002288 for 2000 tiCkbR H
+        0&,,892] <dbf>m``0H``BNLD@F``@`@F@NL0NLD@F```egion at index 0x2
+[00:03:25.882,324] <dbg>M``2`@F@NL@HHNB@`@@L@@L@`0`NF`@@ region at index 0x2
+[00:03:25.882,781] <`bg< Hp`0`@F@NL@L@`0  p      B  p   @000a
+892] <dbG>mpa0H``BNLD@F``@`@F@NL0NLD@F```egion at index 0x2
+[00:03:25.882,324] <d@g> m``8`@F@NL@HHNB@`@@L@@L@`0`NF`@T region at index 0x2
+[00:03:25.882,781] 8D`g< L``0b@F@NL@L@`0  p      B  p   @ 00a
+,892] <D`f>M``0H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+<DbF>H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781] 0h<@@f>H``0`@F@NL@L@`0  p      B  p 00b000a
+892] <dbG<i`a0H``BNLD@F``@`@F@NL0NLD@F``P region at index 0x2
+[00:03:25.882,324] <Dbf<H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@HLPU region at index 0x2
+[00:03:25.882,781] <@@F>h``0`@F@NL@L@`0  p      B  p  0b000a
+,892] Z h8`@F<H``0H``BNLD@F``@`@F@NL0NLD@F`re MPU region at index 0x2
+[00:03:25.882,324] m<d@G< H``0`@F@NL@HHNB@`@@L@@L@`0`NFram MPU region at index 0x2
+[00:03:25.882,701\ H8@@f<H``0`@F@NL@L@`0  p      B 0x150b000a
+
+,892] <d`F<H``0 H``BNLD@F``@`@F@NL0NLD@F`` region at index 0x2
+[00:03:25.882,324] <DBg<m``0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781] 8DbF< H``0`@F@NL@L@`0  p      B  p   b000a
+892] <d`g>h``0H``BNLD@F``@`@F@NL0NLD@F```egion at index 0x2
+[00:03:25.882,324] <dbg<H`q0`@F@NL@HHNB@`@@L@@L@`0`NF`@region at index 0x2
+[00:03:25.882,781] <dbG>Hp`0`@F@NL@L@`0  p      B  p   b000a
+892\ S H<@@F<H``0H``BNLD@F``@`@F@NL0NLD@Fpre MPU region at index 0x2
+[00:03:25.882,304 R H8D@F<H``0`@F@NL@HHNB@`@@L@@L@`0`ngram MPU region at index 0x2
+[00:03:25.882,78! 0H<@@F<H``0`@F@NL@L@`0  p      c0 0x150b000a
+,892] <dbg<m``0 H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324] <DBF<I``0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781] M8@@G<H``0`@F@NL@L@`0  p      B  p   b000a
+,892] <@@f<Hp`0H``BNLD@F``@`@F@NL0NLD@F``@ region at index 0x2
+[00:03:25.882,324] 8Dbg>L``0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781]  m<@BF<H``0`@F@NL@L@`0  p      B  p   b000a
+,892] 0I<@@G<H``0H``BNLD@F``@`@F@NL0NLD@Fpre MPU region at index 0x2
+[00:03:25.882,324X 8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0`Ngram MPU region at index 0x2
+[00:03:25.882,781 I8@@F<H``0`@F@NL@L@`0  p      b0 0x150b000a
+,892] 8Dbg>I``0H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324] <d`f<H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781]m<@@f<H``0`@F@NL@L@`0  p      B  p 00b000a
+,892]  m8`@F>H``0H``BNLD@F``@`@F@NL0NLD@F``` MPU region at index 0x2
+[00:03:25.882,324] S i8`BF<H``0`@F@NL@HHNB@`@@L@@L@`0`NFpam MPU region at index 0x2
+[00:03:25.882,&8 YR H8D@F<H``0`@F@NL@L@`0  p      b0 0x150b000a
+892] <dbG> mpu0 L``BNLD@F``@`@F@NL0NLD@F```@F@Nn at index 0x2
+[00:03:25.882,324] <dbg< mp`2`@F@NL@HHNB@`@@L@HL@`0`NF`@region at index 0x2
+[00:03:25.882,781] <dbG>I``0`@F@NL@L@`0  p      B  p   @  0a
+892]  m<@@G<H``0H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324] 0m<d`f<L``0`@F@NL@HHNB@`@@L@@L@`0`NF`@H MPU region at index 0x2
+[00:03:25.882,781] [ L8@@F<H``0`@F@NL@L@`0  p      B  p 00b000a
+
+,892] 8dBF>H``0H``BNLD@F``@`@F@NL0NLD@F``@LPU region at index 0x2
+[00:03:25.882,324] I<DBF<H``0`@F@NL@HHNB@`@@L@@L@`0`NFram MPU region at index 0x2
+[00:03:25.882,70!] R H<@@F<H``0`@F@NL@L@`0  p      B  0x150b000a
+892] 8`bF<H``0H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324] <@@F<H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@H MPU region at index 0x2
+[00:03:25.882,78!]H8@@F<H``0`@F@NL@L@`0  p      B  x150b000a
+0m
+Still alive - tick
+[00:03:23.92 ,"'9 H8@@F<Nb0p`@BBbH@@`0`@`@@@ x20002288 for 2000 ticks
+[00:03:23.920,837] [0l8@bG<H``0H``BNLD@F``@`@F@NL0NLD@F``@ MPU region at index 0x2
+[00:03:23.921,264] L8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0`Nfram MPU region at index 0x2
+[00:03:23.921,722Y I8@@F<H``0`@F@NL@L@`0  p      B0 0x150b000a
+[00:03:25.875,030] <dbg> mpu:m`aBNLD@F``@`@F@NL0NLD@F```@F@NL@t index 0x2
+[00:03:25.875,488] <dbg> mpu: pEF@OL@HHNB@`@@L@@L@`0`NF`@`@F@NLat index 0x2
+[00:03:25.875,915] <dbg> Ipu:p@F@NN`L@`0  p     "   p   @   @0m
+Still alive - tick
+[00:03:25.876,434]  H8@@F<Nb0p`@BBbH@@`0 thread 0x20002288 for 2000 ticks
+[00:03:25.8&$76,892] <dbg> mpu: mpuBOLfHf``@`@F@NL0NLD@F```@F@NL@`@ndex 0x2
+[00:03:25.882,324] <dbg> mpu:regIoL@LHNB@`@@L@@L@`0`NF`@`@F@NL@t index 0x2
+[00:03:25.882,781] <dbg> mpq0 r@fHNLAL@`0  p      B  p   @   @ m
+,892] <dbG<m``0h``BNLD@F``@`@F@NL0NLD@F``region at index 0x2
+[00:03:25.882,324] <dbf>ip`0 `@F@NL@HHNB@`@@L@@L@`0`NF`@region at index 0x2
+[00:03:25.882,781] 8Dbg>L``0`@F@NL@L@`0  p      B  p   @ 00a
+<@`F<H``0H``BNLD@F``@`@F@NL0NLD@F``@HPU region at index 0x2
+[00:03:25.882,324] <`@f>H``0`@F@NL@HHNB@`@@L@@L@`0`NF`Am MPU region at index 0x2
+[00:03:25.882,781Y  H8@@F<H``0`@F@NL@L@`0  p      B  x150b000a
+,892]  M8DBF<L``0H``BNLD@F``@`@F@NL0NLD@F``@ MPU region at index 0x2
+[00:03:25.882,324] [0h8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0`Ngram MPU region at index 0x2
+[00:03:25.882,7810H8@@F<H``0`@F@NL@L@`0  p      B  0x150b000a
+,892] 8dbf> M``2H``BNLD@F``@`@F@NL0NLD@F```egion at index 0x2
+[00:03:25.882,324] <dbG>H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+8D@F<H``0`@F@NL@L@`0  p      B  p  0b000a
+,,892Y I8@@F<H``0H``BNLD@F``@`@F@NL0NLD@F`re MPU region at index 0x2
+[00:03:25.882,324] 0L8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0`NFram MPU region at index 0x2
+[00:03:25.882,701X Z0l8@@F<H``0`@F@NL@L@`0  p      c0 0x150b000a
+892] <dbg< l``0H``BNLD@F``@`@F@NL0NLD@F``pegion at index 0x2
+[00:03:25.882,324] <dbf<H`a0`@F@NL@HHNB@`@@L@@L@`0`NF`@@ region at index 0x2
+[00:03:25.882,781] <`bf< H``0`@F@NL@L@`0  p      B  p   b000a
+,892] <dbG<hp`0H``^BNLD@F``@`@F@NL0NLD@F``pegion at index 0x2
+[00:03:25.882,324] <dbf<Mpq8`@F@NL@HHNB@`@@L@@L@`0`NF`@ region at index 0x2
+[00:03:25.882,781] <dBg>H``0`@F@NL@L@`0  p      B  p   @   @[0m
+,,892] <dbg<M``0H``BNLD@F``@`@F@NL0NLD@F```egion at index 0x2
+[00:03:25.882,324] <dbG<Hp`0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781]      8D`F<L``8`@F@NL@L@`0  p      B  p  0b000a
+,892]  H<@@F<H``0H``BNLD@F``@`@F@NL0NLD@F`re MPU region at index 0x2
+[00:03:25.882,324  L8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0pogram MPU region at index 0x2
+[00:03:25.882,&8! H8@@F<H``0`@F@NL@L@`0  p      c0 0x150b000a
+
+
+89"] <`BF<H``0H``BNLD@F``@`@F@NL0NLD@F`re MPU region at index 0x2
+[00:03:25.882,32$] Z0H8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0`Ngram MPU region at index 0x2
+[00:03:25.882,78 \ Z L<@@F<H`d0`@F@NL@L@`0  p      B0 0x150b000a
+
+,892] <dbg> l``0H``BNLD@F``@`@F@NL0NLD@F```egion at index 0x2
+[00:03:25.882,324] <dbf<H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781] m8Dbg<H``0`@F@NL@L@`0  p      B  p   b000a
+
+,892] <`BG>H``0H``BNLD@F``@`@F@NL0NLD@F``@HPU region at index 0x2
+[00:03:25.882,324]  L<@@F<H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@h MPU region at index 0x2
+[00:03:25.882,781]  h8@@F<H``0`@F@NL@L@`0  p      B  0x150b000a
+892] 8Dbf>H``0H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324] 8dBG<h`a0`@F@NL@HHNB@`@@L@@L@`0`NF`@H MPU region at index 0x2
+[00:03:25.882,701Y 0i8`@G< H``0`@F@NL@L@`0  p      B  0x150b000a
+892] <dbg> i`d:h``BNLD@F``@`@F@NL0NLD@F```egion at index 0x2
+[00:03:25.882,324] <dbg>Hp`0`@F@NL@HHNB@`@@L@@L@`0`NF`@region at index 0x2
+[00:03:25.882,781] <dbg> M`a0`@F@NL@L@`0  p      B  p   @   a
+
+0m
+StIll Alit`@B  0 "0 "
+                     0 "&0 H8@@F<os: z_tick_sleep: thread 0x20002288 for 2000 tIcksR H    0 "0 "
+                                                                                                0 0"& H8@@F<H``0H``^configure_region: Configure MPU region at index 0x20  0 "0 "
+                     0  $  H8@@F<H``0`@Fion_allocate_and_init: Program MPU region at indEx 0p"   0 "0 "
+                                                                                                       0 &   H8@@F<H``0`dgion_init: [2] 0x200051c0 0x150b000a
+[00:0#:24
+         0& "  H8@@F<H``0H``BNLD@F``@`@gion: Configure MPU region at index 0x2
+[00:03:2 
+         0'000 H8@@F<H``0`@F@NL@HHNB@`@`nd_init: Program MPU region at index 0x2
+[0 : #80 ,0&0   H8@@F<H``0`@F@NL@L@`02] 0x20005340 0x150b000a
+Still alive - tick
+0: "0" 
+       0& "  H8@@F<Nb0 z_tick_sleep: thread 0x20002288 for 200 `@Bbr   0 "0  
+                                                                             0&(,892]  L<`@G<H``0H``BNLD@F``@`@F@NL0NLD@F``` MPU region at index 0x2
+[00:03:25.882,324] 0I<@@F<H``0`@F@NL@HHNB@`@@L@@L@`0`NFram MPU region at index 0x2
+[00:03:25.882,781 I8@@F<H``0`@F@NL@L@`0  p      B 0x150b000a
+,892] <dbG<i`p0H``BNLD@F``@`@F@NL0NLD@F```@fion at index 0x2
+[00:03:25.882,324] <dbg> m`a0b@F@NL@HHNB@`@@L@@L@`0`NF`@pegion at index 0x2
+[00:03:25.882,781] <dbg> H`p0``F@NL@L@`0  p      B  p   @   a
+,892]  h8@@f<H``0H``BNLD@F``@`@F@NL0NLD@F``` MPU region at index 0x2
+[00:03:25.882,324] 8@bF> Hp`0`@F@NL@HHNB@`@@L@@L@`0`NFram MPU region at index 0x2
+[00:03:25.882,781 R0h8@@F<H``0`@F@NL@L@`0  p      B  x150b000a
+,892] 0m<d@G>H`t0H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324] <D`f< H`d0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781]8D`F<H``0`@F@NL@L@`0  p      B  x150b000a
+,892] <dbG< hp`0H``BNLD@F``@`@F@NL0NLD@F```egion at index 0x2
+[00:03:25.882,324] <dBf< L`p0p@F@NL@HHNB@`@@L@@L@`0`NF`@@ region at index 0x2
+[00:03:25.882,781] <d@F<M``0`@F@NL@L@`0  p      B  p  0b000a
+892] 0m<@BG<L``0H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,2 0S H8@@F<H``0`@F@NL@HHNB@`@@L@@L@`: Program MPU region at index 0x2
+[00:03:25.800,'0   H8@@F<H``0`@F@NL@L@`0  p  0051c0 0x150b000a
+
+80  H8@@F<H``0H``BNLD@F``e_region: Configure MPU region at index 0x2
+[0 0 #:  
+         00"   H8@@F<H``0`@F@NL@HHncate_and_init: Program MPU region at index 0x2
+ "0  
+     00&0  H8@@F<H``0`@F@NL@Lit: [2] 0x200051c0 0x150b000a
+,892] <dbg< Lp`0L``BNLD@F``@`@F@NL0NLD@F```egion at index 0x2
+[00:03:25.882,324] <`@f>H``8`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781] <@@f<H``0`@F@NL@L@`0  p      B  p   b000a
+
+892] <dbG>H``0Hp`BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324] 8d@G> I`d0`@F@NL@HHNB@`@@L@@L@`0`NF`@H MPU region at index 0x2
+[00:03:25.882,78!] 0h8DBf<H``0`@F@NL@L@`0  p      B  p 00b000a
+
+892] <dbg> M`a0H``BNLD@F``@`@F@NL0NLD@F`` pegion at index 0x2
+[00:03:25.882,324] <dbg< Hp`0`@F@NL@HHNB@`@@L@@L@`0`NF`@@U region at index 0x2
+[00:03:25.882,781] 8D`F<I``0`@F@NL@L@`0  p      B  p   b000a
+,892]  I8`@F>H``0H``BNLD@F``@`@F@NL0NLD@F`re MPU region at index 0x2
+[00:03:25.882,324]  H8@@G<H``0`@F@NL@HHNB@`@@L@@L@`0`NFram MPU region at index 0x2
+[00:03:25.882,781] 8@@F<H``0`@F@NL@L@`0  p      B 0x150b000a
+892 H8@@F<H``0H``BNLD@F``@`@F@NL0NLD@ftre MPU region at index 0x2
+[00:03:25.882,324] 0h8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0`Ngram MPU region at index 0x2
+[00:03:25.882,780]0H8D@F<H``0`@F@NL@L@`0  p      B  0x150b000a
+892] [ H<@`F<H``0H``BNLD@F``@`@F@NL0NLD@F``d MPU region at index 0x2
+[00:03:25.882,3"4]  L8@@F>H``0`@F@NL@HHNB@`@@L@@L@`0`NFram MPU region at index 0x2
+[00:03:25.882,701][0H8@@F<H``0`@F@NL@L@`0  p      B 0x150b000a
+0m
+Still alive - tick
+[00:03:23.90 
+             "68 H8@@F<Nb0p`@BBbH@@`0`@`@@@ x20002288 for 2000 ticks
+[00:03:23.920,837] i<`@F<H``0H``BNLD@F``@`@F@NL0NLD@F``@ MPU region at index 0x2
+[00:03:23.921,264] l8`@F<h``0`@F@NL@HHNB@`@@L@@L@`0`NF`am MPU region at index 0x2
+[00:03:23.921,722] S H8`@F<H``0`@F@NL@L@`0  p      B  x150b000a
+[00:03:25.875,030] <dbg> mpu:M`q_BOLD@F``@`@F@NL0NLD@F```@F@NL@` hndex 0x2
+[00:03:25.875,488] <dbg> mpu: raGhOLAHHNB@`@@L@@L@`0`NF`@`@F@NL`t index 0x2
+[00:03:25.875,915] <dbg> mpu:`@F`NL@L@`0  p     "   p   @   @0m
+Still alive - tick
+[00:03:25.876,434] H<@@F<Nb0p`@BBbH@@`0`hread 0x20002288 for 2000 ticks
+[00:03:25.8&$,892] <dbg> mpu: mpecNLD`F``@`@F@NL0NLD@F```@F@NL@` index 0x2
+[00:03:25.882,324] <dbg> mpu: `dGhNL@HHOb@`@@L@@L@`0`NF`@`@F@NL@`Hndex 0x2
+[00:03:25.882,781] <dbg> mpu: raGiOlaL@`0  p      B  p   @   @ m
+,892]<d@G<H``0H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324] 0m<dBf>Hp`0`@F@NL@HHNB@`@@L@@L@`0`NF`@h MPU region at index 0x2
+[00:03:25.882,781]L8@@F<H``0`@F@NL@L@`0  p      B  x150b000a
+,892] <d`g<I``0H``BNLD@F``@`@F@NL0NLD@F```egion at index 0x2
+[00:03:25.882,324] <dbf> Hp`0`@F@NL@HHNB@`@@L@@L@`0`NF`@region at index 0x2
+[00:03:25.882,781] <`Bg> L`p0`@F@NL@L@`0  p      B  p   @ 00a
+892] <@BF<H``0H``BNLD@F``@`@F@NL0NLD@F``@ MPU region at index 0x2
+[00:03:25.882,#2 X L8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0 Program MPU region at index 0x2
+[00:03:25.882,&80 H8@@F<H``0`@F@NL@L@`0  p     0c0 0x150b000a
+8`Bf>H`p0H``BNLD@F``@`@F@NL0NLD@F``@
+                                    PU region at index 0x2
+[00:03:25.882,324] 8d@G> H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@H MPU region at index 0x2
+[00:03:25.882,781] 0I8D`f>H``0`@F@NL@L@`0  p      B  p 10b000a
+,892]  i<d@G<H``0H``BNLD@F``@`@F@NL0NLD@F``PU region at index 0x2
+[00:03:25.882,324] 8dbg> H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@HMPU region at index 0x2
+[00:03:25.882,781]M<@@F<H``0`@F@NL@L@`0  p      B  x150b000a
+
+,892] <d@g<I``0H``BNLD@F``@`@F@NL0NLD@F`` region at index 0x2
+[00:03:25.882,324] <`@f<L`p0`@F@NL@HHNB@`@@L@@L@`0`NF`@HHPU region at index 0x2
+[00:03:25.882,781] 8D@F<H``0`@F@NL@L@`0  p      B  p   b000a
+[00:03:27.831,085] <dbg> mpu: mpu_colF`Fp`E`@F@NL0NLD@F```@F@NL@`@L@@p 0x2
+[00:03:27.831,542] <dbg> mpu: region_AHHnB@`@@L@@L@`0`NF`@`@F@NL@`@L`dx 0x2
+[00:03:27.831,970] <dbg> mpu: refInL_Hl@`0  p     "   p   @   @ `@ll alive - tick
+[00:03:27.832,489] <dbg> os: x_`AcBbH@@`0`@`@@@ p      00DN`    `@BBr
+[00:03:27.832,946] <dbg> mpu: mpu_confiGepdr`FANL0NLD@F```@F@NL@`@L@@p p0
+[00:03:27.833,374] <dbg> mpu: region_aLlNcAt@_@l@@L@`0`NF`@`@F@NL@`@L@@p 0x2
+Z 00 "0 &
+         0""&  H8@@F<H``0`@F@NL@llocate_and_init: Program MPU region at index 0x2
+                                                                                   0 "0 &
+                                                                                         833,831] <dbg> mpu: region_INi`2 R0 p      B  p   @   @ 833,831] <dbg> mpu8`@GInL@L@`0  p      B  p   @   @ 833,831] <dbg> mpt2 bAF`NNHL@`0  p      B  p   @   @ 833,831] <dbg> mpu8 `eFHNL@L@`0  p      B  p   @   @ 833,8310 #0 &> mpu: region_init2   p      B  p   @   @ 833,on at index 0x2
+      0""&  H8@@F<H``0`@F@NL@HHncate_and_init: Program MPU region at index 0x2m
+
+S  0 "0 &
+         0"0"  H8@@F<H``0`@F@NL_init: [2] 0x200051c0 0x150b000a <dbg> mpu: baGINL@L@p0  p      B  p   @   @ 833,831] <dbg> mpu: rdGaOn@L@`0  p      B  p   @   @ 833,831] <dbg> mpe8`aG`NN@L@`0  p      B  p   @   @833,831] <dbg> mpu: region_inht:" p      B  p   @   @ 0m
+833,831] <dbg> mpu: regAoNhL@d2  p      B  p   @   @ 833,831] <dbg> mpu: ragioLAL``0  p      B  p   @   @ 833,831] <dbg> mpu: bEFaNL@L@`0  p      B  p   @   @ H
+
+0m
+831] <dbg> mpu: region^Anhd2 X p      B  p   @   @ 833,831] <dbg> mp`0`@F@NL@L@`0  p      B  p   @  0a
+833,831] <dbg> L``0`@F@NL@L@`0  p      B  p   @000a
+833,831] <dbg> mpu: `@F@NL@L@`0  p      B  p   @   @0m
+831] <dbg> mpu: regioninit:  p      B  p   @   @ 831] <dbg> mpu: region_inad0  p      B  p   @   @ 833,831] <dbg> mpu: regHnL@l@`0  p      B  p   @   @0m
+833,831] <dbg> mpu:pEghNL`L@`0  p      B  p   @   @ 833,831] <dbg> mpu: r@G@NL@L@`0  p      B  p   @   @ H
+0m
+831] <dbg> mpu: region^hnAd0   p      B  p   @   @ 0m
+833,on at index 0x2
+Z008 28 6
+0 8 "0 & 0""&  H8@@F<H``0`@F@NL@HHNBate_and_init: Program MPU region at index 0x2
+        0"0"  H8@@F<H``0`@F@NL@lht: [2] 0x200051c0 0x150b000a
+833,on at index 0x2     0 0 "0 &
+                                0""&  H8@@F<H``0`@F@NL@hlocate_and_init: Program MPU region at index 0x2
+  0 "0 &
+        0"0"  H8@@F<H``0`@F@NLinit: [2] 0x200051c0 0x150b000a
+0m
+833,831] <dbg> mpu: region_inip8 p      B  p   @   @ 831] <dbg> mpu: region_hLh`0  p      B  p   @   @ 831] <dbg> mpu: regiOn^IL@`2  p      B  p   @   @ 831] <dbg> mpu: ragion^aLA`0  p      B  p   @   @ 833,831] <dbg> mpu: region_ilHd2 R"X p      B  p   @   @ 0m
+Still alive - tick
+0:0"0 0
+       0& "  H8@@F<Nb0 z_tick_sleep: thread 0x20002288 for 2000 tACcbR   0 "0  
+                                                                               0&00  H8@@F<H`u: mpu_configure_region: Configure MPU region at inddx p 0  0 "0  
+    00"   H8@@F<H``: region_allocate_and_init: Program MPU region at An@`x p    0 "0  
+                                                                                      00&0  H8@@F<mpu: region_init: [2] 0x200051c0 0x150b000a
+[00: 30"&
+         0" 0  H8@@F<H``0H``BNLD@F`re_region: Configure MPU region at index 0x2
+[000 #:0&
+         0"    H8@@F<H``0`@F@NL@HHNBate_and_init: Program MPU region at index 0x2
+ 00"0"&
+       0"0&  H8@@F<H``0`@F@NL@Lht: [2] 0x20005340 0x150b000a
+Still alive 
+             dibC         0 "0 &
+                                0" 00 H8@@F<Nb0p`@BB_sleep: thread 0x20002288 for 2000 ticks
+S00:0#:27.0"00$ H8@@F<H``0H``BNLD@F``@`@gion: Configure MPU region at index 0x2
+S008 #: 6,0""&  H8@@F<H``0`@F@NL@HHNB@`@_and_init: Program MPU region at index 0x2
+[00:030 &
+         0"831] <dbg> mpu: region_init: S2X  p"     B  p   @   @ 0m
+833,831] <dbg> mpu:`EG@NL@LA`0  p      B  p   @   @ 0m
+831] <dbg> mpu: reghnnhNA`0  p      B  p   @   @ 833,831] <dbg> mp`0 `@g@OL@L@`0  p      B  p   @   @ H
+833,831] <dbg> hp`0 `@FHNL@L@`0  p      B  p   @  0a <dbg> mpu:`Ef@NL@L@`0  p      B  p   @   @ H
+833,831] <dbg> mpu:`EGHNL@L@`0  p      B  p   @   @833,831] <dbg> mpu: pefANL@L@`0  p      B  p   @   @ 833,831] <dbg> mpu: `aF@NL@L@`0  p      B  p   @   @0m
+0m
+Still alive , thB  0 "0  
+                         0& "  H8@@F< os: z_tick_sleep: thread 0x20002288 fob "0  p@BBb   0 "0  
+                                                                                                0&00  H8@@F> mpu: mpu_configure_region: Configure MPU region at AN@@p x    0 "0  
+                      00"   h<dbg> mpu: region_allocate_and_init: Program MPU reFAOL A`@L@@p p    0 "0  
+                                                                                                        00&0 R0m<dbg> mpu: region_init: [2] 0x200051c0 0x150b000aS L         0 "0 &
+                        0" 0  H8@@F<H``0H``_configure_region: Configure MPU region at index 0x0R   0 "0 &
+                                                                                                         0"    H8@@F<H``0`@fion_allocate_and_init: Program MPU region at index  p S   0 "0 &
+                                 0"0&  H8@@F<H``0 region_init: [2] 0x20005340 0x150b000a
+Still aHIf`@B  0 "0 &
+                     0" 00 H8@@F<Nb: z_tick_sleep: thread 0x20002288 for 2000 ticksR  0 "0 &
+                                                                                            0"0 $ H8@@F<H``0H``BNLfigure_region: Configure MPU region at in  8 "0 &0H
+        0""&  H8@@F<H``0`@F@Nl_allocate_and_init: Program MPU region at index 0x0  8 "0 &
+                                                                                         0"831] <dbg> mpu: region_ali`0  p      B  p   @   @ 833,831] <dbg> mpu: rEgiOLhn@`0  p      B  p   @   @ 833,831] <dbg>ip`2p@FANL@L@`0  p      B  p   @   @0m
+833,831] <dbf>i`q2`DF@NL@L@`0  p      B  p   @  0a
+833,831] <dbg> lpa:``G@NL@L@`0  p      B  p   @   @0m
+0m
+0m
+Still alive - tICb        0 "0  
+                                0& "  H8@@f> os: z_tick_sleep: thread 0x20002288 fOb0  0`@BBb   0 "0  
+                                                                                                      0&00  H8@`f> mpu: mpu_configure_region: Configure MPU regioN At@N@@p p    0 "0  
+                           00"   H8@@g> mpu: region_allocate_and_init: Program MPU regioLa`AL@@p p    0 "0  
+                                                                                                            00&0  H<dbg> mpu: region_init: [2] 0x200051c0 0x150b000A0L
+R  0 "0 &
+         0" 0  H8@@F<H``0H``BNLfigure_region: Configure MPU region at index 0x20H         0 "0 &
+                                                                                                0"    H8@@F<H``0`@F@NL^allocate_and_init: Program MPU region at index 0x2Z m
+  0 "0 &
+        0"0&  H8@@F<H``0`@Fhon_init: [2] 0x20005340 0x150b000a
+Still alife- `@B  0 "0 &
+                        0" 00 H8@@F<Nb0p_tick_sleep: thread 0x20002288 for 2000 ticks
+000 "0 &
+        0"0 $ H8@@F<H``0H``BNLDhgure_region: Configure MPU region at index 0x2
+R  2 "0 &
+         0""&  H8@@F<H``0`@F@NL@Hlocate_and_init: Program MPU region at index 0x20h
+                                                                                   R  0 "0 &
+                                                                                            0"831] <dbg> mpu: region_aNi`0Z  p      B  p   @   @ 0m
+S  0 #00&> mpu: regioN_hl``0  p      B  p   @   @ 833,on at index 0x2
+         0""&  H8@@F<H``0`@F@NL@Hlocate_and_init: Program MPU region at index 0x2
+
+  0 "0 &
+        833,831] <dbg> mpu: region_init0  0p      B  p   @   @ 831] <dbg> mpu: bAGhnL_@LH`0  p      B  p   @   @ 833,831] <dbg> mpu: reGanL@L@`0  p      B  p   @   @ 831] <dbg> lpa2 r@FANL@L@`0  p      B  p   @   @0m
+831] <dbg> mpu: `@G`NL@L@`0  p      B  p   @   @ H
+
+833,831] <dbg> Mpe: r@F@NL@L@`0  p      B  p   @   @0m
+0m
+831] <dbg> mpu: reGiON_HN@`0  p      B  p   @   @ 831] <dbg> mpu: r`FAOL@L@`0" p      B  p   @   @ 833,831] <dbg> mpe2`ef@NL@L@`0  p      B  p   @   @[0m
+831] <dbg> mpu: refIONHl@`8  p      B  p   @   @ 831] <dbg> mpu: rdg@nN`L@`0  p      B  p   @   @0m
+831] <dbg> mpu: regIon_@nit0  p      B  p   @   @ 833,831] <dbg> mpu: refINL@L@`0  p      B  p   @   @ 0m
+831] <dbg> mpu: pdfaOL@L@`0  p      B  p   @   @ 833,831] <dbg> mpu:beG@oL@L@`0  p      B  p   @   @0m
+831] <dbg> mpu: region_AlAd:  p      B  p   @   @ 831] <dbg> mpu:reghoL`L@`0  p      B  p   @   @ 0m
+Still alive - ticK
+Z0 : "0  
+         0& "  H8@@F<Ns: z_tick_sleep: thread 0x20002288 for 200 `Acbb   0 "0  
+                                                                               0&00  H8@@F<lpu: mpu_configure_region: Configure MPU region at Hn@@p p    0 "0  
+    00"   H8@@F< mpu: region_allocate_and_init: Program MPU reghoL @`@l@@p p0   0 "0  
+  0 "0 &                                                                              00&0  l<dbg> mpu: region_init: [2] 0x200051c0 0x150b000AZ M
+        0" 0  H8@@F<H``0H``bonfigure_region: Configure MPU region at index 0x"[0h
+R  0 "0 &
+         0"    H8@@F<H``0`@F@on_allocate_and_init: Program MPU region at index 0x2   0 "0 &
+                                                                                           0#0&  H8@@F<H``0`@Fion_init: [2] 0x20005340 0x150b000a
+Still alIva) `@BB
+                   0 "0 &
+                         0" 00 H8@@F<Nb0x_tick_sleep: thread 0x20002288 for 2000 ticks
+0 0 "0 &
+ 00 "0 60"0 $ H8@@F<H``0H``BNLD@gure_region: Configure MPU region at index 0x2
+        0""&  H8@@F<H``0`@F@NL@Hlocate_and_init: Program MPU region at index 0x2[0I
+                                                                                    0 "0 &
+                                                                                          0"0"  H8@@F<H``0`@F@NL`nit: [2] 0x200051c0 0x150b000a
+833,831] <dbg> mpu:bEF@nL@L@`0  p      B  p   @   @0m
+0 "0 &dbg> mpu: regiNn^@L@`0  p      B  p   @   @ 831] <dbg> mpu: regIOn_HL@`8  p      B  p   @   @ 833,on at index 0x2
+      0""&  H8@@F<H``0`@F@NL@hlocate_and_init: Program MPU region at index 0  00"0 &
+                                                                                    0"on at index 0x2
+[0 2 "8 7
+         0""&  H8@@F<H``0`@F@NL@HHNB@te_and_init: Program MPU region at index 0x2   0 "0 &
+                                                                                          0"0"  H8@@F<H``0`@F@NL^init: [2] 0x200051c0 0x150b000a
+833,on at index 0x2
+Z000 20 &
+
+S000 #0 &
+         0"831] <dbg> mpu: region_init: S"  p"     B  p   @   @ 833,831] <dbg> mpe:`@FHNL@L@`0  p      B  p   @   @0m
+831] <dbg> mpu: reGiol_`Lh`0  p      B  p   @   @ 833,831] <dbg> mpu: regiOn^aNap0" p      B  p   @   @ 831] <dbg> m`u:pAf`NN@L@`0  p      B  p   @   @ 0m
+Still alive - tick
+[00:03:25.876,434] 8@@F<Nb0p`@BBbH@@`0`@``ad 0x20002288 for 2000 ticks
+[00:03:25.876,81"] H8@@F<H``0H``BNLD@F``@`@F@NL0NLDigure MPU region at index 0x2
+[00:03:25.882,22$ R H8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0Program MPU region at index 0x2
+[00:03:25.882(701R H8@@F<H``0`@F@NL@L@`0  p  0051c0 0x150b000a
+[00:03:27.831,085] <dbg>mp`2H`d^BNLD@F``@`@F@NL0NLD@F```@Fion at index 0x2
+[00:03:27.831,542] <dbg>lp`0 `@F@NL@HHNB@`@@L@@L@`0`NF`@pegion at index 0x2
+[00:03:27.831,970] <dbG<m`q0`@F@NL@L@`0  p     "   p   @ 00a
+Still alive - tick
+[00:03:27.832,489] 8`Bf<Nb0p`@BBcH@@`0`@`@@@ p      00dor 2000 ticks
+[00:03:27.832,946] <dbg> mpq0 h``BOLD@F``@`@F@NL0NLD@F```@F@NL at index 0x2
+[00:03:27.833,374] <dbg> ipu2 `AF`Nl@HHNB@`@@L@@L@`0`NF`@`@Fhon at index 0x2
+[00:03:27.on at index 0x2
+S00:0":0'.8""&  H8@@F<H``0`@F@NL@HHNB@`@^and_init: Program MPU region at index 0x2
+[0 :028 &
+         0"0"  H8@@F<H``0`@F@NL@L@`0 [2] 0x200051c0 0x150b000a
+831] <dbg> m`u: `eG@NL^@L@`0  p      B  p   @   @833,831] <dbg> i`u: bAF@NL@L@`0  p      C  p   @   @Z833,831] <dbg> mpt0`@F@NL@L@`0  p      B  p   @   @R0m
+833,831] <dbg> mpu:rDg@nL@L@`0  p      B  p   @   @ H
+
+0m
+833,831] <dbg> h`a0`@F@NL@L@`0  p      B  p   @  0a
+833,t index 0x2
+[0000200&0"3("&  H8@@F<H``0`@F@NL@HHNB@`@_and_init: Program MPU region at index 0x2
+0:0"8 &
+       0"0"  H8@@F<H``0`@F@NL@L@`0 [2] 0x200051c0 0x150b000a
+0m
+0m
+831] <dbg> mpu: region_HNht8  p      B  p   @   @ 831] <dbg> mpu: refiNLIL@`0  p      B  p   @   @ 833,831] <dbg> mpt8 `@G@NL@L@`0  p      B  p   @   @ H
+833,831] <dbg< m`a0`@F@NL@L@`0  p      B  p   @   @833,t index 0x2
+[0 : #: &
+         0""&  H8@@F<H``0`@F@NL@HHNB@te_and_init: Program MPU region at index 0x2
+S00: #0 &
+         0"0"  H8@@F<H``0`@F@NL@L@`0 [2] 0x200051c0 0x150b000a
+833,831] <dbg> mpq: p`GiNn@L@`0  p      B  p   @   @ H
+833,831] <dbg> mpt8 `@F@NL@L@`0  p      B  p   @   @R0m
+831] <dbg> mpu: regionHn@`0  p      B  p   @   @ 831] <dbg> mpu: regIOlHL@`0  p      B  p   @   @ 833,on at index 0x2
+[0 0 3:"&
+         0""&  H8@@F<H``0`@F@NL@HHNbate_and_init: Program MPU region at index 0x2
+
+0 8 #0 &
+        0"0"  H8@@F<H``0`@F@NL@nit: [2] 0x200051c0 0x150b000a
+833,831] <dbg> m`u2`@F@NL@L@`0  p      B  p   @   @0m
+831] <dbg> mpu: regaON_ALA`0  p      B  p   @   @ 831] <dbg> mpu: regIOLaLA`2R  p      B  p   @   @ 833,831] <dbg> M`q:`@fHNL@L@`0  p      B  p   @   @R0m
+833,831] <dbg> mpe:`@F@NL@L@`0  p      B  p   @   @Z833,831] <dbg> mpu0p@F`NL@L@`0  p      B  p   @   @833,831] <dbg> mpu: b@ghnN@l@`0  p      B  p   @   @ 831] <dbg> mpu:rEGANLHL@`0  p      B  p   @   @  m
+Still alive - tick
+[00:03:25.876,434]  H8@@F<Nb0p`@BBbH@@`0phread 0x20002288 for 2000 ticks
+[00:03:25.874
+             01  H8@@F<H``0H``BNLD@F``@`@F@NL0onfigure MPU region at index 0x2
+[00:03:25.882,"0  H8@@F<H``0`@F@NL@HHNB@`@@L@@Lit: Program MPU region at index 0x2
+[00:03:2500 (&0  H8@@F<H``0`@F@NL@L@`0 0x200051c0 0x150b000a
+[00:03:27.831,085] <d@g>H``0H``BNLD@F``@`@F@NL0NLD@F`` region at index 0x2
+[00:03:27.831,542] <dbf< H``0 `@F@NL@HHNB@`@@L@@L@`0`NF`@PU region at index 0x2
+[00:03:27.831,970] <@bG<H``0`@F@NL@L@`0  p     "   0x150b000a
+Still alive - tick
+[00:03:27.832,401] H8@@F<Nb0p`@BBbH@@`0`@`@@@ p   02288 for 2000 ticks
+[00:03:27.832,946] <dBF< L`a0H``BNLD@F``@`@F@NL0NLD@F`` region at index 0x2
+[00:03:27.833,374] <DbF<H``0`@F@NL@HHNB@`@@L@@L@`0`NF`@HHPU region at index 0x2
+[00:03:27.on at index 0x2
+ : "8 &
+       8""&  H8@@F<H``0`@F@NL@llocate_and_init: Program MPU region at index 0x2  0 "0 &
+                                                                                       0"0"  H8@@F<H``0`@F@NL^init: [2] 0x200051c0 0x150b000a
+833,831] <dbg< mpu0 b@F@Nl@L@`0  p      B  p   @   @Z833,831] <dbg> mpu: region_in``8  p      B  p   @   @ 833,831] <dbg>ipt0 ``F@NL@L@`0  p      B  p   @   @0m
+833,833,831] <dbg> mpu: reG`NL@L@`0  p      B  p   @   @ 833,831] <dbg> Mpu8pEgHnLHl@`0  p      B  p   @   @833,831] <dbg> mpu: bAghoL@l@`0  p      B  p   @   @ 833,on at index 0x2
+[008 "0 &
+         0""&  H8@@F<H``0`@F@NL@HHNBate_and_init: Program MPU region at index 0x2
+ 0 "0 &
+       0"0"  H8@@F<H``0`@F@NL@L@t: [2] 0x200051c0 0x150b000a
+833,831] <dbg> mpu: region_init: S0  p      B  p   @   @ 833,on at index 0x2
+[00:0320'.0"2&  H8@@F<H``0`@F@NL@HHNB@`@^and_init: Program MPU region at index 0x2
+Z00: 30 &
+         0"0"  H8@@F<H``0`@F@NL@L@`0 [2] 0x200051c0 0x150b000a
+831] <dbg> mpu: rdghnL_`nH`0  p      B  p   @   @ 833,831] <dbg> H`e2 `@F@NL@L@`0  p      B  p   @  0a
+833,831] <dbg> mpe2bAF@NL@L@`0  p      B  p   @   @833,831] <dbg> ipa0 r`G@NL@L@`0  p      B  p   @   @ L
+831] <dbg> mpu:raGHNL@L@`0  p      B  p   @   @0m
+Still alive - tick
+00: "0  
+        0& "  H8@@F<Nb0 z_tick_sleep: thread 0x20002288 for"0  `@BBb   0 "0  
+                                                                             0&00  H8@@F> mpu: mpu_configure_region: Configure MPU region a`@L`@x p    0 "0  
+  00"   H8@@G> mpu: region_allocate_and_init: Program MPU reginn Ap@L@`p p    0 "0  
+ 00 "0 &                                                                            00&0  H<dbg> mpu: region_init: [2] 0x200051c0 0x150b000aZ0i
+0 0 "0 &0" 0  H8@@F<H``0H``BNlfigure_region: Configure MPU region at index 0x2
+        0"    H8@@F<H``0`@F@NL^allocate_and_init: Program MPU region at index 0p2Z H   R  0 "0 &
+                                                                                                0"0&  H8@@F<H``0`@Fhon_init: [2] 0x20005340 0x150b000a
+Still alife ,`iB  0 "0 &
+00: "0 &                0" 00 H8@@F<Nb0ptick_sleep: thread 0x20002288 for 2000 ticks
+        0"0 $ H8@@F<H``0H``BNLD@F`pe_region: Configure MPU region at index 0x2
+R0 20"2 &
+         0""&  H8@@F<H``0`@F@NL@HHNbate_and_init: Program MPU region at index 0x2
+  0 "0 &
+        0"833,831] <dbg> mpu: pAf`NL@L@`0  p      B  p   @   @ H
+0m
+831] <dbg> mpu: regInN_Hl`p0  p      B  p   @   @ 831] <dbg> mpu: refiOlaL``0  p      B  p   @   @  Still alive - tick
+[00:03:25.876,434] <`BG<Nb0p`@BBbH@@`0`@`@ad 0x20002288 for 2000 ticks
+[00:03:25.876,892]  H8@@F<H``0H``BNLD@F``@`@F@NL0NLD@gure MPU region at index 0x2
+[00:03:25.882,32 ]  h8@@F<H``0`@F@NL@HHNB@`@@L@@L@`0Program MPU region at index 0x2
+[00:03:25.88"
+             70!X  H8@@F<H``0`@F@NL@L@`0  p  0051c0 0x150b000a
+[00:03:27.831,085] <dbf> lpu8H``BNLD@F``@`@F@NL0NLD@F```@Fion at index 0x2
+[00:03:27.831,542] <dbg>hpq0 b@F@NL@HHNB@`@@L@@L@`0`NF`@`@gion at index 0x2
+[00:03:27.831,970] <dbg> M``0p@F@NL@L@`0  p     "   p   @  0a
+Still alive - tick
+[00:03:27.832,489] <`BG>Nb0p`@BBbH@@`0`@`@@@ p      00DNr 2000 ticks
+[00:03:27.832,946] <dbg> mpu: m``^BNND@F``@`@F@NL0NLD@F```@F@NLat index 0x2
+[00:03:27.833,374] <dbg> mpu2 p@FhNL@HHNB@`@@L@@L@`0`NF`@`@F@Nn at index 0x2
+[00:03:27.833,831] <dbg> mpu: reGIOn^ALA`0  p      B  p   @   @ 0m
+831] <dbg> mpu: beghnNhL@t2  p      B  p   @   @ 0m
+833,on at index 0x2
+00 #8 &
+Z0 0 "2 &
+         0"0"  H8@@F<H``0`@F@NL^hnit: [2] 0x200051c0 0x150b000a
+831] <dbg> mpu: bEgAOlHL@`0  p      B  p   @   @ H
+0m
+Still alive - tick
+[00:03:25.876,434]  H8@@F<Nb0p`@BBbH@@`0thread 0x20002288 for 2000 ticks
+[00:03:25.87090 H8@@F<H``0H``BNLD@F``@`@F@NL0 Configure MPU region at index 0x2
+[00:03:25.88",#   H8@@F<H``0`@F@NL@HHNB@`@@L@@Lit: Program MPU region at index 0x2
+[00:02205.00 (&0  H8@@F<H``0`@F@NL@L@`0 0x200051c0 0x150b000a
+[00:03:27.831,085] <d`F>ip`0H``BNLD@F``@`@F@NL0NLD@F`pe MPU region at index 0x2
+[00:03:27.831,542  M8@`F<H``0`@F@NL@HHNB@`@@L@@L@`0`ngram MPU region at index 0x2
+[00:03:27.831,870X H8@@F<H``0`@F@NL@L@`0  p     "   0x150b000a
+Still alive - tick
+[00:03:27.832,489 H8@@F<Nb0p`@BBbH@@`0`@`@@@ p  002288 for 2000 ticks
+<@@f<Hpa0H``BNLD@F``@`@F@NL0NLD@F``U region at index 0x2
+[00:03:27.833,374] <d@g<M``0`@F@NL@HHNB@`@@L@@L@`0`NF`@H MPU region at index 0x2
+[00:03:27.NL@`@L@@p p    0 "0 6.833,374] <dbg> mpu: region_allocate_and_inIt2 `NF`@`@F@NL@`@L@@p p   0:03:27.833,831] <dbg> mpu: befINL@L@`0  p      B  p   @   @ 831] <dbg> mpu: rdGaNL@N@`0  p      B  p   @   @ 831] <dbg> mpu: region_inat:2 p      B  p   @   @ 0m
+0m
+Still Alive (d`B  0 "0  
+                        0& " [0m<dbg> os: z_tick_sleep: thread 0x2000"000Dn`    `@BBb   0 "0  
+PbEf@NL @`@L@@p p    0 "0                                                                     0&00 <dbg> mpu: mpu_configure_region: Configure 
+                           00"  <dbg> mpu: region_allocate_and_init: Program M@U `@FhNL@`@L@@p p    0 "0  
+                                                                                                          00&0 ] <dbg> mpu: region_init: [2] 0x200051c0 0x15 B 0 @   0 "0 &
+                0" 0  H8@@F<H``0 mpu_configure_region: Configure MPU region at indEx p 0  0 "0 &
+                                                                                                0"    H8@@F<H``: region_allocate_and_init: Program MPU region at in`Ep  p    0 "0 &
+                        0"0&  H8@@F<lpu: region_init: [2] 0x20005340 0x150b000a
+S`IHL @H@d`@B  0 "0 &
+                     0" 00 H8@@g> os: z_tick_sleep: thread 0x20002288 for 2000 tickbR0  0 "0 &
+                                                                                              0"0 $ H8@@F<H``0Hpu_configure_region: Configure MPU region at index  x2   0 "0 &
+                   0""&  H8@@F<H``0`egion_allocate_and_init: Program MPU region at in`ex  p    0 "0 &
+                                                                                                     on at index 0x2
+[00:0382'0#"("&0 H8@@F<H``0`@F@NL@HHNB@`@@nd_init: Program MPU region at index 0x2
+Z0 : "0"&
+         0"0"  H8@@F<H``0`@F@NL@L@`: [2] 0x200051c0 0x150b000a
+0m
+833,831] <dbg< mp`2`@F@NL@L@`0  p      B  p   @ 00a
+0m
+833,831] <dbg> mp`0 `@FHNL@L@`0  p      B  p   @   @0m
+0m
+0 0 "0  ive - tHbC
+        0& "  H8@@f> os: z_tick_sleep: thread 0x20002288 fob "   p@BBb   0 "0  
+                                                                               0&00  H8@`g> mpu: mpu_configure_region: Configure MPU region a` Hl``x p    0 "0  
+     00"   H8@@g> mpu: region_allocate_and_init: Program MPU region @piL@@p p    0 "0  
+ 00 "0 &                                                                               00&0  H<dbg> mpu: region_init: [2] 0x200051c0 0x150b000a
+        0" 0  H8@@F<H``0H``BNnfigure_region: Configure MPU region at index 0x2
+                                                                              S  0 "0 &
+                                                                                       0"    H8@@F<H``0`@F@nn_allocate_and_init: Program MPU region at index  x2[   0 "0 &
+               0"0&  H8@@F<H``0`@Fion_init: [2] 0x20005340 0x150b000a
+Still ahife
+            d@B  0 "0 &
+                       0" 00 H8@@F<Nb0p^tick_sleep: thread 0x20002288 for 2000 ticks   00 20 &
+                                                                                              0"0 $ H8@@F<H``0H``BNLD@Ftre_region: Configure MPU region at index 0x2
+S  :0"0 &
+         0""&  H8@@F<H``0`@F@NL@Hlocate_and_init: Program MPU region at index 0x2
+R0 0 "0 &
+         0"831] <dbg> mpu: region_ilAd:   p      B  p   @   @ 833,on at index 0x2
+S0 80"0 &
+         0""&  H8@@F<H``0`@F@NL@Hlocate_and_init: Program MPU region at index 0x20i
+                                                                                    0 "0 &
+                                                                                          0"0"  H8@@F<H``0`@F@NL^init: [2] 0x200051c0 0x150b000a
+831] <dbg> mpu:rEfHnl^@L@`0  p      B  p   @   @ 833,831] <dbg> mpa2 raF@NN@L@`0  p      B  p   @   @0m
+0m
+833,t index 0x2
+[00:03:"6.82"&   H8@@F<H``0`@F@NL@HHNB@`@@L@hnit: Program MPU region at index 0x2
+[00:03:"&.8"0"  H8@@F<H``0`@F@NL@L@`0 0x200051c0 0x150b000a
+833,831] <dbg< h``0`@F@NL@L@`0  p      B  p   @  0a <dbg> mpu2p@F@NL@L@`0  p      B  p   @   @Z0m
+0m
+833,831] <dbg> Mpe:`@G@NL@L@`0  p      B  p   @   @0m
+0m
+0m
+833,831] <dbg> mpu: regioNhnAd2  p      B  p   @   @ 833,831] <dbg> mpu: pDF@NLHL@`0  p      B  p   @   @ H
+833,on at index 0x2
+[ 02020 7
+         0""&  H8@@F<H``0`@F@NL@HHNB@te_and_init: Program MPU region at index 0xR  0 "0 &
+                                                                                         0"0"  H8@@F<H``0`@F@on_init: [2] 0x200051c0 0x150b000a
+0m
+831] <dbg> mpu8 rEf@NN@L@`0  p      B  p   @   @ H
+831] <dbg> mpu: region^An``0   p      B  p   @   @ 831] <dbg> mpu: refAOn^aN@`0 R  p      B  p   @   @ 833,831] <dbg> mpu: r`FAnL@L@`0  p      B  p   @   @ 0m
+831] <dbg> mpu: refaNN@L@`0  p      B  p   @   @ 833,833,831] <dbg> mpu: rEfAON@N@`0  p      B  p   @   @ 833,831] <dbg> mpu2`@F@NL@L@`0  p      B  p   @   @0m
+833,831] <dbg>h`t2`@F@NL@L@`0  p      B  p   @   @R833,831] <dbg> mpu: region_init: R"X  p"     C  p   @   @ 833,831] <dbg> lp`2 `@F@NL@L@`0  p      B  p   @   @0m
+833,831] <dbg> mpu:reGAnL@N@`0  p      B  p   @   @ 833,831] <dbG< M`e2`@f@NL@L@`0  p      B  p   @  0a
+0m
+833,831] <dbg> mp`0`Ef@NL@L@`0  p      B  p   @   @0m
+831] <dbg> mpu: reginLhl@`0  p      B  p   @   @ 0m
+0m
+Still alive - tick
+  0 "0  
+        0& "  H8@@F<Nr: z_tick_sleep: thread 0x20002288 for 2   `HBBb   0 "0  
+                                                                              0&00  H8@@F<lpu: mpu_configure_region: Configure MPU region at iLdDx p    0 "0  
+   00"   H8@@F<Lpu: region_allocate_and_init: Program MPU region `pAlDAp p  H
+                                                                               0 "0  
+                                                                                     00&0  H8@@F> mpu: region_init: [2] 0x200051c0 0x150b000a
+0 0 20 &
+        0" 0  H8@@F<H``0H``BNLD@fure_region: Configure MPU region at index 0x2
+[00: "0 &
+         0"    H8@@F<H``0`@F@NL@Hhocate_and_init: Program MPU region at index 0x2
+ "0 &
+     0"0&  H8@@F<H``0`@F@NLinit: [2] 0x20005340 0x150b000a
+Still alive -daC  0 "0 &
+                        0" 00 H8@@F<Nb0p`@Bj_sleep: thread 0x20002288 for 2000 ticks
+[0020#0 6
+         0#0 $ H8@@F<H``0H``BNLD@F``@region: Configure MPU region at index 0x2
+[00:02: &8""&  H8@@F<H``0`@F@NL@HHNB@`e_and_init: Program MPU region at index 0x2
+[0 :0"8 &
+         0"t index 0x2
+[0 : "00&,0""&  H8@@F<H``0`@F@NL@HHNB@te_and_init: Program MPU region at index 0x2
+[  0 "0 &
+         0"0"  H8@@F<H``0`@F@NL@L@p: [2] 0x200051c0 0x150b000a
+831] <dbg> mpu: pEfioL_@L@`0  p      B  p   @   @ 833,831] <dbg> mpt:b@G@NL@L@`0  p      B  p   @   @0m
+0m
+831] <dbg> mpu: peGiNL@LA`0  p      B  p   @   @0m
+Still alive - tick
+[00:03:25.876,434]  H8@@F<Nb0p`@BBbH@@`0thread 0x20002288 for 2000 ticks
+[00:03:25.074,010  H8@@F<H``0H``BNLD@F``@`@F@NL0nnfigure MPU region at index 0x2
+[00:03:25.882,3 4 H8@@F<H``0`@F@NL@HHNB@`@@L@`nit: Program MPU region at index 0x2
+[00:03:0 
+         80&0  H8@@F<H``0`@F@NL@L@`0  x200051c0 0x150b000a
+[00:03:27.831,085] <Dbg< M`d0H``BNLD@F``@`@F@NL0NLD@F`` region at index 0x2
+[00:03:27.831,542] <d@G> I`d0`@F@NL@HHNB@`@@L@@L@`0`NF`@U region at index 0x2
+[00:03:27.831,970]      <D@g<H``0`@F@NL@L@`0  p     "   p 50b000a
+Still alive - tick
+[00:03:27.832,489] S H8@@F<Nb0p`@BBbH@@`0`@`@@@ p      88 for 2000 ticks
+[00:03:27.832,946] <dbg> L`u0hp`CNLD@F``@`@F@NL0NLD@F```@Fion at index 0x2
+[00:03:27.833,374] <dbg> I`q0`@F@NL@HHNB@`@@L@@L@`0`NF`@ region at index 0x2
+
+
+  8 "0 &
+        0""&  H8@@F<H``0`@F@NL`llocate_and_init: Program MPU region at index 0x2
+  0 "0 &
+        833,831] <dbg> mpu: region_INh`:  p      B  p   @   @ 0m
+[00:03:29.787,139] <dbg>mp`2 M``CNLD@F``@`@F@NL0NLDigure MPU region at index 0x2
+[00:022"0
+         &0 0& H8@@F<H``0`@F@NL@HHNB@`@_and_init: Program MPU region at index 0x2
+[00:0"208
+         &0    H8@@F<H``0`@F@NL@L@`0 [2] 0x20005340 0x150b000a
+Still alive - tick
+[000 "0 1
+         &0  " H8@@F<Nb0p`@BBbH`ep: thread 0x20002288 for 2000 ticks
+[00:03:29.'01(0   H8@@F<H``0H``BNLD@F``@`@fion: Configure MPU region at index 0x2
+[00:0#:20,60  0 H8@@F<H``0`@F@NL@HHNB@`@`nd_init: Program MPU region at index 0x2
+[00: #2"1
+         '00 $ H8@@F<H``0`@F@NL@L@`0 ] 0x200051c0 0x150b000a
+pu: region_alhNb@`@@L@@L@`0`NF`@`@F@NL@`@L@ex 0x2
+[00:03:29.788,055] <dbg> mpu: region^HLA`0  p     "   p   @   @ `@HH alive - tick
+[00:03:29.788,543] <dbg> os: r_tABC^cH@@`0`@`@@@ p      00DN`    `@BBs
+[00:03:29.789,001] <dbg> mpu: mpu_confIgubA`@F@NL0NLD@F```@F@NL@`@L@@p p 
+[00:03:29.789,459] <dbg> mpu: region_allOCA`A@L@@L@`0`NF`@`@F@NL@`@L@@p x2
+[00:03:29.789,916] <dbg> mpu: region_hNad:" p      B  p   @  igure MPU region at ildap  p    0 "0 0
+                                                                                                   &0 0& H8@@F<H`u: region_allocate_and_init: Program MPU region at iLdAx p    0 "0 0
+                          &0    H8@@F< mpu: region_init: [2] 0x20005340 0x150b000a
+phLl`H@d`@B  0 "0 0
+                   &0  " H8@@g> os: z_tick_sleep: thread 0x20002288 for 2000 tHCBc   0 "0 0
+                                                                                           &0    H8@@F<H``0 mpu_configure_region: Configure MPU region at aLD@x  p    0 "0 0
+                 &0  0 H8@@F<hpu: region_allocate_and_init: Program MPU region apiLD@p p    0 "0 0
+                                                                                                  &00 $ H8@@F< mpu: region_init: [2] 0x200051c0 0x150b0 igure MPU region at alDap  p    0 "0 0
+                                   &0 0& H8@@F<H`u: region_allocate_and_init: Program MPU region atAl@@p p    0 "0 0
+                                                                                                                    &0    H8@@F< mpu: region_init: [2] 0x20005340 0x150b000a
+tiLl@H@d`@B  0 "0 0
+                   &0  " H8@`g> os: z_tick_sleep: thread 0x20002288 for 2000 thckb   0 "0 0
+                                                                                           &0    H8@@F<H``0 mpu_configure_region: Configure MPU region at iNdEx0p   0 "0 0
+               &0  0 H8@@F<H``8 region_allocate_and_init: Program MPU region ad in`ax p    0 "0 0
+                                                                                                 &00 $ H8@@F<lpu: region_init: [2] 0x200051c0 0x150b000a
+                                                                                                                                                        3:29.789,916] <D@f< H``0`@F@NL@L@`0  p      B  p   `000a
+0m
+Still alive - tick
+[00:03:27.832,4818@@F<Nb0p`@BBbH@@`0`@`@@@ p   02288 for 2000 ticks
+[00:03:27.832,946] <dbg< H`t0H``BNLD@F``@`@F@NL0NLD@F``region at index 0x2
+[00:03:27.833,374] <dbg<i``0`@F@NL@HHNB@`@@L@@L@`0`NF`@@ region at index 0x2
+[00:03:27.833,831] <dbG< Hpd0`@F@NL@L@`0  p      B  p   @ 00a
+[00:03:29.787,139] <dbg> mpu: mpu_coNfag``@`@F@NL0NLDiigure MPU region at il@@p p    0 "0 0
+                                                                                           &0 0& H8@@F<mpu: region_allocate_and_init: Program MPU region a`aLdAp p    0 "0 0
+                 &0    H8@@F> mpu: region_init: [2] 0x20005340 0x150b000a
+`@HH@H@d`@B  0 "0 0
+                   &0  " m<dbg> os: z_tick_sleep: thread 0x20002288 for 2000 diCCs   0 "0 0
+                                                                                           &0    H8@@F<H`u: mpu_configure_region: Configure MPU region at InDdx  p    0 "0 0
+                 &0  0 H8@@F<Hpu: region_allocate_and_init: Program MPU region at iN@@p p    0 "0 0
+                                                                                                   &00 $0m<dbg> mpu: region_init: [2] 0x200051c0 0x150b0mmpu: region_allocate^anD^iL@`0`NF`@`@F@NL@`@L@@p p  h
+[00:03:29.788,055] <dbg> mpu: region_init: Z"\  x2    "   p   @   @ `@HH@H@dtick
+[00:03:29.788,543] <dbg> os: z_tick_sleep2 p`p@@` p      00DN`    `@BBb   003:29.789,001] <dbg> mpu: mpu_configure_region:BNnd@F```@F@NL@`@L@@p p   0:03:29.789,459] <dbg> mpu: region_allocatd_aN`_il@`0`NF`@`@F@NL@`@L@@p p  [00:03:29.789,916] <dbg> mpu: region_init: x 0    B  p   @   @ igure MPU region ataL@@p p    0 "0 0
+            &0 0& H8@@F< mpu: region_allocate_and_init: Program MPU region @d@nD@p p    0 "0 0
+                                                                                              &0    H8dbg> mpu: region_init: [2] 0x20005340 0x150b000a
+                                                                                                                                                      d`HH@H@d`@B  0 "0 0
+              &0  "0m<dbg> os: z_tick_sleep: thread 0x20002288 for 200  `iBBb   0 "0 0
+                                                                                      &0    H8@@F<H`t: mpu_configure_region: Configure MPU region at hn@ex  p 0  0 "0 0
+            &0  0 H8@@F<Hpu: region_allocate_and_init: Program MPU region at AnDAp p    0 "0 0
+on_allocate_aNd_iNat0`OF`@`@F@NL@`@L@@p p   0:03:29.788,055] <dbg> mpu: region_init: [2] 0x0 0 $"   p   @   @ `@HH@H@d`@BB: [2] 0x200051c0 0x150b000a
+[00:03:29.788,543] <dbg> os: z_tick_sleep: t@be`D  p0     00DN`    `@BBb   0 "009.789,001] <dbg> mpu: mpu_configure_region: COnfIGd``@F@NL@`@L@@p p    0 ":29.789,459] <dbg> mpu: region_allocate_and_iNhp8`NF`@`@F@NL@`@L@@p p    003:29.789,916] <dbg> mpu: region_init: [2] 0x"00 $ B 0p   @   @ :29.789,916  H8@@F<H``0`@F@NL@L@`0  p      B  0x150b000a
+0m
+Still alive - tick
+[00:03:27.8"0, 00 H8@`F<Nb0p`@BBbH@@`0`@`@@@ x20002288 for 2000 ticks
+[00:03:27.832,946]  h<`@F<H``0H``BNLD@F``@`@F@NL0NLD@F``` MPU region at index 0x2
+[00:03:27.833,374] <@@F<H``0`@F@NN@HHNB@`@@L@@L@`0`NF`am MPU region at index 0x2
+[00:03:27.833,831]S h8@@F<H``0`@F@NL@L@`0  p      B 0x150b000a
+[00:03:29.787,139] <dbg> mpu: ipq_BNLdAF``@`@F@NL0NLDigure MPU region at indep  x0   0 "0 0
+                                                                                           &0 0& H8@@F<H``0 regiigure MPU region at indep0p    0 "0 0
+                                                                                                                                                     &0 0& H8@@F<H``0 region_allocate_and_init: Program MPU region ap iNDax p    0 "0 0
+                                                                            &0    H8@@F< mpu: region_init: [2] 0x20005340 0x150b000a
+8@@F<H``0`@F@NL@L@`0  p      B  p050b000a
+,916] <dbg> mpu: regiNL@L@`0  p      B  p   @   @ Hthread 0x20002288 for 2000dabKc   0 "0 0
+ regaon @t AN@@p p    0 "0 0                                                               &0    H8@@F<H``0 mpu_configure_region: Configure MPU region at i
+ndex0p    0 "0 0            &0 0& H8dbg> mpu: region_allocate_and_init: Program MPU reginN@``L@@p p    0 "0 0
+                &0  0 H8@@F<H``: region_allocate_and_init: Program MPU region at iNd@x p    0 "0 0           &0    h<dbg> mpu: region_init: [2] 0x20005340 0x150b000a0`@HH@HAd`@B  0 "0 0NL@`@L@@p p  [00:03:29.788,055] <dbg> mpu: region_init: [0] 0x0   %"   p   @   @ `@HH@H@d`@bknit: [2] 0x200051c0 0x150b000a
+[00:03:29.788,543] <dbg> os: z&0  " <dbg> os: z_tick_sleep: thread 0x20002288 for 200 `@BBb   0 "0 0 mpu_configure_region:CoNFAF```@F@NL@`@L@@p p    0 3:29
+.789,459] <dbg> mpu: region_allocate_and_Init8`NF`@`@F@NL@`@L@@p p    :03:29.789,916] <dbg> mpu: reg&0    H8@@F<mpu: mpu_configure_region: Configure MPU region at AL@`p p    0 "0 0@@p p [00:03:29.788,055] <dbg> mpu: region_init: [2] 0x0    "   p   @   @ `@HH@H@dtick
+[00:03:29.788,543] <dbg> &0  0 H8@@F< mpu: region_allocate_and_init: Program MPU region `t hN@@p p    0 "0 0igure_regiOL0 COLD@F```@F@NL@`@L@@p p   0:03:29
+.789,459] <dbg> mpu: region_allocate_`Nd_iLA`0`NF`@`@F@NL@`@L@@p p  Z00:03:29.789,916] <dbg> mpu: region_ini&00 $ H8@bg> mpu: region_init: [2] 0x200051c0 0x150b00pu: region_alLoB`pe@L@@L@`0`NF`@`@F@NL@`@L@@p0x2
+[00:03:29.788,055] <dbg> mpu: region_inI`:  p     "   p   @   @ `@HH@Hhve - tick
+[00:03:29.788,543] <dbg> os: z_tIcC_sHA``0`@`@@@ p      00DN`    `@BBb m
+[00:03:29.789,001] <dbg> mpu: mpu_configura_rEgION2NLD@F```@F@NL@`@L@@p p  H
+[00:03:29.789,459] <dbg> mpu: region_allocatE@l@AL@`0`NF`@`@F@NL@`@L@@p p0
+[00:03:29.789,916] <dbg> mpu: region_inid8   p      B  p   @   @ H
+916] 8D`g<H``0`@F@NL@L@`0  p      B  p   @ 00a
+igure MPU region at in`ep p    0 "0 0
+                                     &0 0& H8@@F< mpu: region_allocate_and_init: Program MPU regiol At@L@@p p    0 "0 0
+                                                                                                                       &0    H8dbg> mpu: region_init: [2] 0`AHh@H@d`@B  0 "0 0a
+                   &0  "0m<dbg> os: z_tick_sleep: thread 0x20002288 for200 ``bBc   0 "0 0
+                                                                                         &0    H8@@F<Hpu: mpu_configure_region: Configure MPU region a`hL`@p p    0 "0 0
+             &0  0 H8@@F<Hpu: region_allocate_and_init: Program MPU region at@nD@p p    0 "0 0
+                                                                                              &00 $ H8@@F< mpu: region_init: [2] 0x200051c0 0x150b00pu: region_aHLoB``@`L@@L@`0`NF`@`@F@NL@`@L@@p 0x2
+[00:03:29.788,055] <dbg> mpu: regiOn_iLad2 p     "   p   @   @ `@Hl alive - tick
+[00:03:29.788,543] <dbg> os: z_daCBbH@@`8`@`@@@ p      00DN`    `@BBs
+[00:03:29.789,001] <dbg> mpu: mpu_confiG``e`Df@NL0NLD@F```@F@NL@`@L@@p p0
+[00:03:29.789,459] <dbg> mpu: region_alloca`E@L@@L@`0`NF`@`@F@NL@`@L@@p0x2
+[00:03:29.789,916] <dbg> mpu: region_hnA`2  p      B  p   @   @ H
+igure MPU region at HN`Ep p    0 "0 0
+                                     &0 0& H8@@F<Hpu: region_allocate_and_init: Program MPU region at @l@Ap 0p    0 "0 0
+                                                                                                                        &0    H8@@F< mpu: region_init: [2] 0x20005340 0x150b000a
+tiHH @H@d`@B  0 "0 0
+                    &0  " H8`bg> os: z_tick_sleep: thread 0x20002288 for 2000 tiCcc   0 "0 0
+                                                                                            &0    H8@@F<H``0mpu_configure_region: Configure MPU region at index x0   0 "0 0
+                &0  0 H8@@F<H``0region_allocate_and_init: Program MPU region at indEp p    0 ":29.789,916] <dbg> M`p0`@F@NL@L@`0  p      B  p   @   @[0m
+pu: ragioN_ALHOC@`@@L@@L@`0`NF`@`@F@NL@`@L@ex 0x2
+[00:03:29.788,055] <dbg> mpu: rEgioN_INA`0  p     "   p   @   @ `@Hh alive - tick
+[00:03:29.788,543] <dbg> os: z_`@BCbH@@`0`@`@@@ p      00DN`    `@BBs
+[00:03:29.789,001] <dbg> mpu: mpu_condifupepAF@NL0NLD@F```@F@NL@`@L@@p p0
+[00:03:29.789,459] <dbg> mpu: region_alloba`E@L@@L@`0`NF`@`@F@NL@`@L@@p x2
+[00:03:29.789,916] <dbg> mpu: region^INip2  p      B  p   @   @ H
+igure MPU region at index 0x2
+[00:03:01,&0 06 H8@@F<H``0`@F@NL@HHNB@`@@L`_init: Program MPU region at index 0x2
+[0020"8 1
+         &0    H8@@F<H``0`@F@NL@L@`02] 0x20005340 0x150b000a
+[0 2020 8ve - tick
+         &0  " H8@@F<Nb0p`@BBbH@@`8 thread 0x20002288 for 2000 ticks
+[00:03:29,708, 0  H8@@F<H``0H``BNLD@F``@`@F@NL0 Bonfigure MPU region at index 0x2
+[00:03:29.781
+             4 0X H8@@F<H``0`@F@NL@HHNB@`@@L@init: Program MPU region at index 0x2
+[00:03:29,600 $ H8@@F<H``0`@F@NL@L@`0  x200051c0 0x150b000a
+ion_allocate_and_inip8bOFb@`@F@NL@`@L@@p p    003:29.788,055] <dbg> mpu: region_init: [2] 0x2 0 5"   p   @   @ `@HH@H@d`@B[00:03:29.788,543] <dbg> os: z_tick_sleep: thre`D 0p      00DN`    `@BBb   0 "0 0.789,001] <dbg> mpu: mpu_configure_region: ConfiGab`@F@NL@`@L@@p p    :03:29.789,459] <dbg> mpu: region_allocate_and_hnAp0`NF`@`@F@NL@`@L@@p p  00:03:29.789,916] <dbg> mpu: region_init: [2]  x20   0B  p   @   @  `@HH@H@d tick
+[00:03:27.832,489] <dbg> os: z_tick_sleep0`h`@@@ p      00DN`0   `@BBb  0:03:27.832,946] <dbg> mpu: mpu_configure_regIon2BoLD@Gq``@F@NL@`@L@@p p    :03:27.833,374] <dbg> mpu: region_allocate_andInht0`NF`@`@F@NL@`@L@@p p  R00:03:27.833,831] <dbg> mpu: region_init: [2] 0x 0    B  p   @   @   0 "0 0
+                                                                                                                                              &0 "9] <dbg> mpu: mpu_configure_region: OnD@F```@F@NL@`@L@@p p2
+[00:03:29.787,597] <dbg> H``0`@F@NL@HHNB@`@@L@@L@`0`NF`am MPU region at index 0x2
+[00: 3: 8
+         60    H8@@F<H``0`@F@Nn_init: [2] 0x20005340 0x150b000a
+Still aliva     `HB  0 "0 0
+0 0 #0 0                   &0  " H8@@F<Nb0x_tick_sleep: thread 0x20002288 for 2000 ticks
+[0 0 #0 00    H8@@F<H``0H``BNLD@fure_region: Configure MPU region at index 0x2
+         &0  0 H8@@F<H``0`@F@NL@llocate_and_init: Program MPU region at index 0x"         0 "0 0
+                                                                                                &00 $ H8@@F<H``0`@F@NL^init: [2] 0x200051c0 0x150b000a
+
+:29.789,914Y H8`@F<H``0`@F@NL@L@`0  p      B  0x150b000a
+U region at index 0x0S0  0 "0 0
+                               &0 0& H8@@F<H``0`@Fion_allocate_and_init: Program MPU region at index 0x2   0 "0 0
+                                                                                                                 &0    H8@@F<H``0`dgion_init: [2] 0x20005340 0x150b000a
+Still Ah`t@(`@B  0 "0 0
+                       &0  " H8@@F<Ns: z_tick_sleep: thread 0x20002288 for 2000 ticks0M
+  0 "0 0
+S  0 "0 00    H8@@F<H``0H``Bonfigure_region: Configure MPU region at index 0x2Z0m
+         &0  0 H8@@F<H``0`@Fhon_allocate_and_init: Program MPU region at ind`p 0p    0 "0 0
+                                                                                           &00 $ H8@@F<H``: region_init: [2] 0x200051c0 0x150b000a
+StIlL@H@d`@B  0 "0 &
+                    0" 00 H8`bg> os: z_tick_sleep: thread 0x20002288 for 2000tAcBr   0 "0 &
+                                                                                           0"0 $ H8@@F<H``0mpu_configure_region: Configure MPU region at index 0p2   0 "0 &
+                0""&  H8@@F<H``0begion_allocate_and_init: Program MPU region atandap0p    0 "0 &
+                                                                                                0"0"  H8@@F<H`u: region_init: [2] 0x200051c0 0x150b000a
+S00:0"2 0
+         '0 "0 H8@@F<H``0H``BNLD@Fure_region: Configure MPU region at indep 0x0Z0  0 "0 0
+                                                                                         &0 0& H8@@F<H``0`@Fion_allocate_and_init: Program MPU region at index 0p0 H
+          0 "0 0
+                &0    H8@@F<H``0``gion_init: [2] 0x20005340 0x150b000a
+Still alid`(`@B  0 "0 0
+                       &0  " H8@@F<Nb0 z_tick_sleep: thread 0x20002288 for 2000 ticks
+Z  0 "0 0
+         &0    H8@@F<H``0H``BNnfigure_region: Configure MPU region at index 0x  0 "0 0
+                                                                                      &0  0 H8@@F<H``0`@F@Nn_allocate_and_init: Program MPU region at index 0p0[0I   0 "0 0
+U region at index 0x 00 "0 0H``0`@Fion_init: [2] 0x200051c0 0x150b000a
+                            &0 0& H8@@F<H``0`@F@NLallocate_and_init: Program MPU region at index 0x  0 "0 0
+                                                                                                           &0    H8@@F<H``0`@gion_init: [2] 0x20005340 0x150b000a
+Still ahifd`AB  0 "0 0
+                      &0  " H8@@F<Nb0p_tick_sleep: thread 0x20002288 for 2000 ticks
+  8 "0 0
+  0 "0 0
+        &0  0 H8@@F<H``0`@F@NL`llocate_and_init: Program MPU region at index 0x20  0 "0 0
+U region at index 0x20m                                                                  &00 $ H8@@F<H``0`@F@Nl_init: [2] 0x200051c0 0x150b000a
+                       Z  0 22 0
+                                &0 0& H8@@F<H``0`@F@NLallocate_and_init: Program MPU region at index 0x2Z   0 "0 0
+                                                                                                                  &0    H8@@F<H``0`@F@nl_init: [2] 0x20005340 0x150b000a
+ `@BC alive 
+       0 "0 0
+             &0  " H8@@F<Nb0p_tick_sleep: thread 0x20002288 for 2000 ticks
+[ 00 "0 0
+         &0    H8@@F<H``0H``BNLD@Fure_region: Configure MPU region at index 0x2
+8 #0"0
+         0 "0 0
+               &00 $ H8@@F<H``0`@F@NLinit: [2] 0x200051c0 0x150b000a
+:29.789,916]  H8@`F<H``0`@F@NL@L@`0  p      B  p050b000a
+mpu: region_allocate^and_@lHt0`NF`@`@F@NL@`@L@@p p  [00:03:29.788,055] <dbg> mpu: region_init: [2] 0x  0  "   p   @   @ `@HH@H@d`hck
+[00:03:29.788,543] <dbg> os: z_tick_sleep0thpAA` p      00DN`    `@BBb   0 3:29.789,001] <dbg> mpu: mpu_configure_region: CnnDAF```@F@NL@`@L@@p p    0 3:29.789,459] <dbg> mpu: region_allocate_and_inIt0 `OF`@`@F@NL@`@L@@p p    :03:29.789,916] <dbg> mpu: region_init: [2] 0p"00  0b0 p   @   @  region at aNdEp  x    0 "0 0
+          &0 0& H8@@F<H``: region_allocate_and_init: Program MPU region ap HL@Ax p    0 "0 0
+                                                                                            &0    H8@@F< mpu: region_init: [2] 0x20005340 0x150b000a
+Sd@HL@H@d`@B  0 "0 0
+                    &0  " H8@bg> os: z_tick_sleep: thread 0x20002288 for 2000 pAcJc   0 "0 0
+                                                                                            &0    H8@@F<H``0hpu_configure_region: Configure MPU region at index p    0 "0 0
+                &0  0 H8@@F< mpu: region_allocate_and_init: Program MPU regiol at AL@@p p    0 "0 0
+igure MPigure MPU region at iNdex p    0 "0 0                                                      &00 $ H8@bg> mpu: region_init: [2] 0x200051c0 0x150b000a
+                                             &0 0& H8@@F<mpu: region_allocate_and_init: rnF`@`@F@NL@`@L@@p p    0 "0 9.788,055] <dbg> mpu: region_init: [2] 0x20005"40  p ! @   @ `@HH@H@d`@B  0 3:29.788,543] <dbg> os: z_tick_sleep: thrdAd p      00DN`    `@BBb   0 "0 0
+                                                                                                                 689,001] <dbg> mpu: mpu_configure_region: ConfIgup` `@F@NL@`@L@@p p    0 "0 0
+                                   789,459] <dbg> mpu: region_allocate_and_init: ProfpaH        `@F@NL@`@L@@p p    0 "0 9.789,916] <dbg> mpu: region_init: [2] 0x2000$1C   p!! @   @ 916] <dbg>Ip`0`@F@NL@L@`0  p      B  p   @000a
+mpu: region_allocate_`Nd_anA`2`NFb@`@F@NL@`@L@@p p  [00:03:29.788,055] <dbg> mpu: region_init: [2] 0x2 0  #   p   @   @ `@HH@H@d`@Bc
+[00:03:29.788,543] <dbg> os: z_tick_slae`: t@`@@@ p      00DN`    `@BBb   0 3:29.789,001] <dbg> mpu: mpu_configure_region8 CoLD@G```@F@NL@`@L@@p p    0 3:29.789,459] <dbg> mpu: region_allocate_and_Ini`:`NF`@`@F@NL@`@L@@p p  00:03:29.789,916] <dbg> mpu: region_init: [2] 0x2 0   B  p   @   @ 3:29.789,916] <dbg> mpu: region_init:[2Y p"0    B  p   @   @ igure MPU region atHL@Ex p    0 "0 0
+                                                                              &0 0& H8@@F< mpu: region_allocate_and_init: bOg`@`@F@NL@`@L@@p p    0 "009.788,055] <dbg> mpu: region_init: [2] 0x200 5#00 p   @   @ `@HH@H@d`@B  003:29.788,543] <dbg> os: z_tick_sleep: thread 0x"  0  00dN`    `@BBb   0 "0 0
+                                                                                                                                                   &00,001] <dbg> mpu: mpu_configure_region: Configube L`Ef@NL@`@L@@p p    0 "0 0
+                                                                      &00(459] <dbg> mpu: region_allocate_and_init: Prog`@I`@F@NL @`@L@@p p    0 "0 0
+                                                                                                                                                     689,916] <dbg> mpu: region_init: [2] 0x200051c0 0x 0 @ 0 @ pu: region_AllOB@pA`L@@L@`0`NF`@`@F@NL@`@L@dx 0x2
+[00:03:29.788,055] <dbg> mpu: reGion_hnA`0  p     "   p   @   @ `@HH alive - tick
+[00:03:29.788,543] <dbg> oc: pd@BBbH@@`0`@`@@@ p      00DN`    `hcks
+[00:03:29.789,001] <dbg> mpu: mpu_coNdiFup``@F@NL0NLD@F```@F@NL@`@L@@p 0x2
+[00:03:29.789,459] <dbg> mpu: regIon_ALlNC@`@@L@@L@d0`NF`@`@F@NL@`@L@@x 0x2
+[00:03:29.789,916] <dbg> mpu: regaoninH`0  p      B  p   @   @ H
+on_allocate_`ND`L``0`NF`@`@F@NL@`@L@@p p  H
+[00:03:29.788,055] <dbg> mpu: region_init: [2 0x"    "   p   @   @ `@HH@H@de - tick
+[00:03:29.788,543] <dbg> os: z_tick_che@p: `@`@@@ p      00DN`    `@BBb[00:03:29.789,001] <dbg> mpu: mpu_configube_begAoL8NND@F```@F@NL@`@L@@p p  H
+
+[00:03:29.789,459] <dbg> mpu: region_allocate_an`_@L@p0`NF`@`@F@NL@`@L@@p p  m
+[00:03:29.789,916] <dbg> mpu: region_init: ["Y 0p      B  p   @   @ 0a
+on_allocate_An@hLit0`NF`@`@F@NL@`@L@@p p  H
+[00:03:29.788,055] <dbg> mpu: region_init: ["] p     "   p   @   @ `@HH@H@dtick
+[00:03:29.788,543] <dbg> os: z_tick_sldap:`@`D@@ p      00DN`    `@BBb   803:29.789,001] <dbg> mpu: mpu_configure_regaon: OLD@F```@F@NL@`@L@@p p   0:03:29.789,459] <dbg> mpu: region_allocate_and_Alad2bNF`@`@F@NL@`@L@@p p  R00:03:29.789,916] <dbg> mpu: region_init: [2] 0x0     B  p   @   @  `@HH@H@d@ - tick
+[00:03:27.832,489] <dbg> os: z_tick_slE@p2`@`@@@ p      00DN`    `@BBb  0:03:27.832,946] <dbg> mpu: mpu_configure_rEfion: NlD@F```@F@NL@`@L@@p p   0:03:27.833,374] <dbg> mpu: region_allocate_aNDAN@d0`NF`@`@F@NL@`@L@@p p  H
+[00:03:27.833,831] <dbg> mpu: region_init: S"Y  p    ! B  p   @   @   0 "0 0
+                                                                            &0 29] <dbg> mpu: mpu_configure_region: Nlf@F``igure MPU region athNDdp x    0 "0 0
+    &0 0& H8@@F<lpu: region_allocate_and_init: Program MPU region at Al@Ap p    0 "0 0
+                                                                                      &0    H8@@F< mpu: region_init: [2] 0x20005340 0x150b000a0m
+                                                                                                                                                `hLH`H@d`@B  0 "0 0
+        &0  " m<dbg> os: z_tick_sleep: thread 0x20002288 for 20 0 p`BBc   0 "0 0
+                                                                                &0    H8@@F<H``0 mpu_configure_region: Configure MPU region at ilDep  p    0 "0 0
+      &0  0 H8@@F<H``8 region_allocate_and_init: Program MPU region apHND@x p    0 "0 0
+                                                                                       &00 $ H8@@F< mpu: region_init: [2] 0x200051c0 0x150b0 igure MPU region at in@Dp p"   0 "0 0
+                       &0 0& H8@@F<H``: region_allocate_and_init: Program MPU regiona`an@@x p    0 "0 0
+                                                                                                       &0    H8@@F< mpu: region_init: [2] 0x20005340 0x150b000a
+StiLl`HAd`@B  0 "0 0
+                    &0  " H8@`g> os: z_tick_sleep: thread 0x20002288 for 2000 thCbc   0 "0 0
+                                                                                            &0    H8@@F<H``0 mpu_configure_region: Configure MPU region at indap x0   0 "0 0
+                 &0  0 H8@@F<H``8 region_allocate_and_init: Program MPU region at iLD@p  p"   0 "0 0
+ region at And`x p    0 "0 0                                                                        &00 $ H8@@F<Hpu: region_init: [2] 0x200051c0 0x150b000a
+                            &0 0& H8@@F<Hpu: region_allocate_and_init: Program MPU region atAnd`p p    0 "0 0
+                                                                                                             &0    H<dbg> mpu: region_init: [2] 0x20005340 
+RthHH@H@d`@B  0 "0 0
+                    &0  "[0m<dbg> os: z_tick_sleep: thread 0x20002288 for 2000``Bbb   0 "0 0
+                                                                                            &0    H8@@F<mpu: mpu_configure_region: Configure MPU region at IN@@p p    0 "0 0
+                 &0  0 H8@@F<lpu: region_allocate_and_init: Program MPU region ap @N@Ap p  H
+                                                                                              0 "0 0
+                                                                                                    &00 $ H8@`g> mpu: region_init: [2] 0x200051c0 0x150b000a       ,916] <dbg> mpu: regiol_AlH`:  p      B  p   @   @ H
+igure MPU region at inD`p p    0 "0 0
+                                     &0 0& H8@@F<H`p: region_allocate_and_init: Program MPU region at hND@p p    0 "0 0
+                                                                                                                       &0    H8@@F<lpu: region_init: [2] 0xpHhH@HAd`@B  0 "0 0
+                   &0  " H8dbg> os: z_tick_sleep: thread 0x20002288 for 2000 tacBc   0 "0 0
+                                                                                           &0    H8@@F<H``0 mpu_configure_region: Configure MPU region at indep x0R   0 "0 0
+                 &0  0 H8@@F<H``0region_allocate_and_init: Program MPU region at ildep  p    0 ":29.789,916] <dBG>hpe0`@F@NL@L@`0  p      B  p   @ 00a
+0a
+ region at iNdEp p    0 "0 0
+                            &0 0& H8@@F<H``: region_allocate_and_init: Program MPU region atAnDDp  p    0 "0 0
+                                                                                                              &0    H8@@F<mpu: region_init: [2] 0x20005340 0x150b000a
+SdiLH @H@d`@B  0 "0 0
+                     &0  " H8@@g> os: z_tick_sleep: thread 0x20002288 for 2000 tiCks   0 "0 0
+                                                                                             &0    H8@@F<H``0 mpu_configure_region: Configure MPU region at index 0p0   0 "0 0
+                   &0  0 H8@@F<H``0region_allocate_and_init: Program MPU region ap in@Ex p    0 "0 0
+916] <dbg> m`u:beG@NL@L@`0  p      B  p   @   @ H                                                   &00 $ H8@@F<H`u: region_init: [2] 0x200051c0 0x150b000a
+gure MPU reGinl ap@L@@p p    0 "0 0
+                                   &0 0& H8dbg> mpu: region_allocate_and_init: Program MPU reF`on``@L@@p p    0 "0 0
+                                                                                                                    &0   Z0m<dbg> mpu: region_init: [2] 0x20005340 0x150b0 0a `@HH@H@d`@B  0 "0 0
+                                      &0 $3] <dbg> os: z_tick_sleep: thread 0x20002288 FNp     `@BBb   0 "0 0
+                                                                                                             &0    H8@bg> mpu: mpu_configure_region: Configure MPU regiNn ap @L@@p p    0 "0 0
+                                   &0  0 H8`bg> mpu: region_allocate_and_init: Program MPU regioLA`AL@@p p    0 "0 0
+                                                                                                                    &00 $Z0m<dbg> mpu: region_init: [2] 0x2igure MPU region at indep 0p  H   0 "0 0
+                                        &0 0& H8@@F<H``0 region_allocate_and_init: Program MPU region ap @nDap  p    0 "0 0
+                                                                                                                           &0    H8@@F< mpu: region_init: [2] 0x20005340 0x150b000a
+SthLLAHHt`@B  0 "0 0
+                    &0  " H8@bg> os: z_tick_sleep: thread 0x20002288 for 2000 tiCcsR0  0 "0 0
+                                                                                             &0    H8@@F<H``0hpu_configure_region: Configure MPU region at index  p  0 "0 0
+                &0  0 H8@@F<H`p8 region_allocate_and_init: Program MPU reginnap @L@@p p    0 "0 0
+00a                                                                                              &00 $ H8`bg> mpu: region_init: [2] 0x200051c0 0x150b000a
+pu: reg@on_allocate_and_init0`NF`@`@F@NL@`@L@@p p  R 0:03:29.788,055] <dbg> mpu: region_init: [2] 0x"0   "    p   @   @ `@HH@H@d`@BB
+[00:03:29.788,543] <dbg> os: z_tick_sleep: thbaA` p      00DN`    `@BBb   0 "009.789,001] <dbg> mpu: mpu_configure_region: CoNfIFu``@F@NL@`@L@@p p    0 ":29.789,459] <dbg> mpu: region_allocate_and_inht2 P`NF`A`@F@NL@`@L@@p p    003:29.789,916] <dbg> mpu: region_init: [2] 0x200 5 B  p   @   @ igure MPU region at Hn@Dx p    0 "0 0
+                    &0 0& H8@@F<mpu: regipu: region_alloc`teaN`hL@`0`NF`@`@F@NL@`@L@@p p [0m
+[00:03:29.788,055] <dbg> mpu: region_iNit8S0 x     "   p   @   @ `@HH@H@de - tick
+[00:03:29.788,543] <dbg> os: z_tick_chedp8`@`@@@ p      00DN`    `@BBb S00:03:29.789,001] <dbg> mpu: mpu_configure_reFann0nLD@F```@F@NL@`@L@@p p  Z00:03:29.789,459] <dbg> mpu: region_allocate_andHNA`8`NF`@`@F@NL@`@L@@p p  h
+[00:03:29.789,916] <dbg> mpu: region_init: [20x    !!B  p   @   @ H
+igure MPU region at IL`@x 0p    0 "0 0
+                                      &0 0& H8@@F<lpu: region_allocate_and_init: Program MPU region ap AL@Dp p    0 "0 0
+                                                                                                                        &0    H8@@F< mpu: region_init: [2] 0x20005340 0x150b000a
+Rp@HH@H@d`@B  0 "0 0
+                    &0  " H8`bg> os: z_tick_sleep: thread 0x20002288 for 2000 diBCs   0 "0 0
+                                                                                            &0    H8@@F<H``0 mpu_configure_region: Configure MPU region at indax  p0R   8 "0 0
+                   &0  0 H8@@F<H``0 region_allocate_and_init: Program MPU region at ilD`x p0   0 "0 0
+                                                                                                     &00 $ H8@@F<H`u: region_init: [2] 0x200051c0 0x150b000on_allocate_and_iLid2`NF`@`@F@NL@`@L@@p p    003:29.788,055] <dbg> mpu: region_init: [2] 0x0   $"0  p   @   @ `@HH@H@d`@BB
+[00:03:29.788,543] <dbg> os: z_tick_sleep: thrda@  p      00DN`    `@BBb   0 "0 9.789,001] <dbg> mpu: mpu_configure_region: CoNdHf```@F@NL@`@L@@p p    0 "829.789,459] <dbg> mpu: region_allocate_and_inIt0PbNFp@`@F@NL@`@L@@p p    0 3:29.789,916] <dbg> mpu: region_init: [2] 0x00 0 1B0 p   @   @ igure MPU regionap HND@p p    0 "0 0
+                   &0 0& H8@@F< igure MPigure MPU
